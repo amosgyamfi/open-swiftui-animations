@@ -5,5 +5,9 @@
 
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
 
+<strong>Radar Loading Spinner</strong>
+<img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/radar_spinner.gif" alt="radar">
+
+
 
 

@@ -8,6 +8,8 @@
 <strong>Radar Loading Spinner</strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/radar_spinner.gif" alt="radar">
 
+<strong>Voice Recording</strong>
+<img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/voice_recording.gif" alt="radar">
 
 
 

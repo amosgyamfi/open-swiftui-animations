@@ -8,7 +8,7 @@
 <strong>Recording</strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/recording.gif" alt="recording">
 
-<strong>Packman Loader/strong>
+<strong>Packman Loader</strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/swiftUI_pacman_twitter.gif" alt="radar">
 
 <strong>Voice Recording</strong>

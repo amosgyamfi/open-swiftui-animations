@@ -5,6 +5,9 @@
 
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
 
+<strong>Recording/strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/recording.gif" alt="recording">
+
 <strong>Packman Loader/strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/swiftUI_pacman_twitter.gif" alt="radar">
 

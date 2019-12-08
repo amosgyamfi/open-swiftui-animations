@@ -8,8 +8,12 @@
 <strong>Recording</strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/recording.gif" alt="recording">
 
+<strong>Circular Motion</strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/circular_motion_with_blur.gif" alt="radar">
+
 <strong>Packman Loader</strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/swiftUI_pacman_twitter.gif" alt="radar">
+
 
 <strong>Voice Recording</strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/voice_recording.gif" alt="radar">

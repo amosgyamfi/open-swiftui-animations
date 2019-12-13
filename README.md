@@ -5,6 +5,9 @@
 
 <strong>Yahoo Weather Sun & Wind<strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
+ 
+ <strong>Twitter Like Animation<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/twitter_like.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
 
 <strong>Pop In Animations<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/popIn.gif" alt="Pop In Animations">

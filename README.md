@@ -28,8 +28,6 @@
 <strong>Voice Recording</strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/voice_recording.gif" alt="radar">
 
-<strong>Ball</strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/ball.gif" alt="ball">
 
 
 

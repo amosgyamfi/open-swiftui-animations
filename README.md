@@ -9,8 +9,12 @@
  <strong>Face-ID Style 3D Rotation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/face-id_style_3d_rotation.gif" alt="Face-ID Style 3D Rotation">
  
- <strong>Twitter Like Animation<strong>
+<strong>Twitter Like Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/twitter_like.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
+
+<strong>SwiftUI Animated Illustration<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_illustrations.gif" alt="SwiftUI Animated Illustration">
+
 
 <strong>Pop In Animations<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/popIn.gif" alt="Pop In Animations">

@@ -15,6 +15,9 @@
 <strong>SwiftUI Animated Illustration<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_illustrations.gif" alt="SwiftUI Animated Illustration">
 
+<strong>Breath Animation<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/breath.gif" alt="Pop In Animations">
+
 
 <strong>Pop In Animations<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/popIn.gif" alt="Pop In Animations">

@@ -16,7 +16,7 @@
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_illustrations.gif" alt="SwiftUI Animated Illustration">
  
 <strong>Rotation Along X, Y and Z<strong>
-<img src=" https://github.com/amosgyamfi/swiftui-animation-library/blob/master/how_to_3D_rotate.gif">
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/how_to_3D_rotate.gif" alt="rotation xyz">
  
 <strong>Breath Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/breath.gif" alt="Pop In Animations">

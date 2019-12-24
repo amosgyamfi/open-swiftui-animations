@@ -22,7 +22,7 @@
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/how_to_3D_rotate.gif" alt="rotation xyz">
  
 <strong>Breath Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/breath.gif" alt="Pop In Animations">
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/breath.gif" alt="Breath">
 
 
 <strong>Pop In Animations<strong>
@@ -31,8 +31,8 @@
 <strong>Recording</strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/recording.gif" alt="recording">
 
-<strong>Circular Motion</strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/circular_motion_with_blur.gif" alt="circular motion">
+<strong>Snowman</strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/snowman.gif" alt="circular motion">
 
 <strong>Packman Loader</strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/swiftUI_pacman_twitter.gif" alt="packman">

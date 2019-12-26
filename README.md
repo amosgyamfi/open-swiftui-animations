@@ -15,6 +15,9 @@
 <strong>Twitter Like Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/twitter_like.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
 
+<strong>Biking<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/biking.gif" alt="Biking">
+
 <strong>SwiftUI Animated Illustration<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_illustrations.gif" alt="SwiftUI Animated Illustration">
  

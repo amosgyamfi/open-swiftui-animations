@@ -6,6 +6,9 @@
 <strong>Yahoo Weather Sun & Wind<strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
  
+ <strong>Notification: Realistic Bell<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/notification_realistic_bell.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
+ 
 <strong>Face-ID Style 3D Rotation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/face-id_style_3d_rotation.gif" alt="Face-ID Style 3D Rotation">
  

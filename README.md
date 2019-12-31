@@ -3,6 +3,9 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>Full-Screen Fireworks Effect<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/swiftUI_fireworks.gif" alt="Full-Screen Fireworks Effect">
+
 <strong>Yahoo Weather Sun & Wind<strong>
 <img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
  

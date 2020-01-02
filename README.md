@@ -3,6 +3,10 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>Syncing Spinner<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/syncing_spinner.gif" alt="Syncing Spinner">
+
+
 <strong>HUE Rotation: Photographic Visual Effects<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/hue_rotation.gif" alt="HUE Rotation">
 

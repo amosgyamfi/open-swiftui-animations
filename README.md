@@ -3,9 +3,11 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>Map Pin<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/map_pin.gif" alt="Map Pin">
+
 <strong>Syncing Spinner<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/syncing_spinner.gif" alt="Syncing Spinner">
-
 
 <strong>HUE Rotation: Photographic Visual Effects<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/hue_rotation.gif" alt="HUE Rotation">

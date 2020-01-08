@@ -3,6 +3,9 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>ontent Loading/ Pull to refresh<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/content_loading.gif" alt="Content Loading/ Pull to refresh">
+
 <strong>Map Pin<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/map_pin.gif" alt="Map Pin">
 

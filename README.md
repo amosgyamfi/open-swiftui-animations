@@ -6,6 +6,11 @@
 <strong>ontent Loading/ Pull to refresh<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/content_loading.gif" alt="Content Loading/ Pull to refresh">
 
+<strong>Voice Recording/ Ripple Effect<strong>
+<img src="<strong>Map Pin<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/map_pin.gif" alt="Voice Recording/ Ripple Effect">
+" alt="Map Pin">
+
 <strong>Map Pin<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/map_pin.gif" alt="Map Pin">
 

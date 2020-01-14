@@ -3,7 +3,10 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
-<strong>ontent Loading/ Pull to refresh<strong>
+<strong>Data Loading<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/data_loading.gif" alt="Data Loading/ Pull to refresh">
+ 
+<strong>Content Loading/ Pull to refresh<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/content_loading.gif" alt="Content Loading/ Pull to refresh">
 
 <strong>Voice Recording/ Ripple Effect<strong>

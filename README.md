@@ -4,8 +4,7 @@
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
 <strong>Keyframe Animation: Recreating Yahoo Weather Onboarding Animation<strong>
-<img src="
-https://github.com/amosgyamfi/swiftui-animation-library/blob/master/swiftui_keyframe_animation.gif" alt="Yahoo Weather Onboarding Animation">
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/swiftui_keyframe_animation.gif" alt="Yahoo Weather Onboarding Animation">
 
 <strong>Snoozing and Bell Ringing<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/bedtime.gif" alt="Snoozing and Bell Ringing">

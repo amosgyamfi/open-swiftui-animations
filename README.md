@@ -3,8 +3,11 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
-<strong>Keyframe Animation: Recreating Yahoo Weather Onboarding Animation<strong>
+<strong>SwiftUI Keyframe Animation: Yahoo Weather Onboarding Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/swiftui_keyframe_animation.gif" alt="Yahoo Weather Onboarding Animation">
+ 
+<strong>Yahoo Weather Sun & Wind Animation<strong>
+<img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
 
 <strong>Snoozing and Bell Ringing<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/bedtime.gif" alt="Snoozing and Bell Ringing">
@@ -27,11 +30,8 @@
 
 <strong>HUE Rotation: Photographic Visual Effects<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/hue_rotation.gif" alt="HUE Rotation">
-
-<strong>Yahoo Weather Sun & Wind<strong>
-<img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
  
- <strong>Notification: Realistic Bell<strong>
+<strong>Notification: Realistic Bell<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/notification_realistic_bell.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
  
 <strong>Face-ID Style 3D Rotation<strong>

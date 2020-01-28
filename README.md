@@ -12,8 +12,8 @@
 <strong>Snoozing and Bell Ringing<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/bedtime.gif" alt="Snoozing and Bell Ringing">
  
-<strong>Inertial Bounce<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/inertial_bounce.gif" alt="Inertial Bounce">
+<strong>Sequential Inertial Bounce<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/sequential_inertial_bounce.gif" alt="Inertial Bounce">
 
 <strong>Data Loading<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/data_loading.gif" alt="Data Loading/ Pull to refresh">

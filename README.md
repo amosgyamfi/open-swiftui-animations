@@ -5,6 +5,10 @@
 
 <strong>Spring Animation: iOS 13 Silent Mode Off<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/silent_mode_off.gif" alt="Spring Animation: iOS 13 Silent Mode Off">
+ 
+ <strong>Seamlessly Looping Animation<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/waves.gif" alt="Seamlessly Looping Animation">
+ 
 <strong>SwiftUI Keyframe Animation: Yahoo Weather Onboarding Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/swiftui_keyframe_animation.gif" alt="Yahoo Weather Onboarding Animation">
  

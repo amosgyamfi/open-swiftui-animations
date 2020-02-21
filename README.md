@@ -24,6 +24,9 @@
 <strong>Data Loading<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/data_loading.gif" alt="Data Loading/ Pull to refresh">
  
+ <strong>Typing Progress<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/typing.gif" alt="Typing Progress">
+ 
 <strong>Content Loading/ Pull to refresh<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/content_loading.gif" alt="Content Loading/ Pull to refresh">
 

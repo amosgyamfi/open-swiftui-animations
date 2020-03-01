@@ -3,11 +3,11 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
-<strong>Spring Animation: iOS 13 Silent Mode Off<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/silent_mode_off.gif" alt="Spring Animation: iOS 13 Silent Mode Off">
- 
 <strong>Motion Path Editing and Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/path_editing_and_animation.gif" alt="Motion Path Editing and Animation">
+ 
+<strong>Spring Animation: iOS 13 Silent Mode Off<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/silent_mode_off.gif" alt="Spring Animation: iOS 13 Silent Mode Off">
  
  <strong>Seamlessly Looping Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/waves.gif" alt="Seamlessly Looping Animation">

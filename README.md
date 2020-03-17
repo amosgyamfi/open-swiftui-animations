@@ -7,7 +7,7 @@
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/path_editing_and_animation.gif" alt="Unlock & Lock: Using Custom Timing Function">
  
 <strong>Unlock & Lock: Using Custom Timing Function<strong>
-<img src=" https://github.com/amosgyamfi/swiftui-animation-library/blob/master/unlock.gif" alt="Motion Path Editing and Animation">
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/unlock.gif" alt="Motion Path Editing and Animation">
  
 <strong>Spring Animation: iOS 13 Silent Mode Off<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/silent_mode_off.gif" alt="Spring Animation: iOS 13 Silent Mode Off">

@@ -3,6 +3,9 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>Animated Wallpaper Using Hue Rotation<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_wallpaper.gif" alt="Animated Wallpaper">
+ 
 <strong>Motion Path Editing and Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/path_editing_and_animation.gif" alt="Unlock & Lock: Using Custom Timing Function">
  

@@ -3,6 +3,9 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>The iPhone Camera Timelapse Animation<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/timelapse.gif" alt="Animated Wallpaper">" alt="The iPhone Camera Timelapse Animation">
+
 <strong>Animated Wallpaper Using Hue Rotation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_wallpaper.gif" alt="Animated Wallpaper">
  

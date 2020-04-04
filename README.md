@@ -3,6 +3,9 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>Calling<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/calling.gif" alt="Animated Wallpaper">" alt="Calling">
+ 
 <strong>The iPhone Camera Timelapse Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/timelapse.gif" alt="Animated Wallpaper">" alt="The iPhone Camera Timelapse Animation">
 

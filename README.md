@@ -3,8 +3,11 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
-<strong>Calling<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/calling.gif" alt="Calling">
+<strong>Skype Calling<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/skype_calling.gif" alt="Skype Calling">
+
+<strong>Microsoft Teams' Calling<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/calling.gif" alt="Microsoft Teams' Calling">
  
 <strong>The iPhone Camera Timelapse Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/timelapse.gif" alt="Animated Wallpaper">" alt="The iPhone Camera Timelapse Animation">

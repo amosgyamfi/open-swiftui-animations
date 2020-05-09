@@ -3,6 +3,9 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>Current Location Animation in Maps<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/current_location_animation.gif" alt="Current Location Animation in Maps">
+
 <strong>Skype Calling<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/skype_calling.gif" alt="Skype Calling">
 

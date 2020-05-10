@@ -3,20 +3,23 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>Yahoo Weather Sun & Moon<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/yahoo_weather_sun_and_moon.gif" alt="Yahoo Weather Sun & Moon">
+ 
+<strong>Microsoft Teams' Calling<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/calling.gif" alt="Microsoft Teams' Calling">
+
+<strong>Animated Wallpaper Using Hue Rotation<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_wallpaper.gif" alt="Animated Wallpaper">
+ 
 <strong>Current Location Animation in Maps<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/current_location_animation.gif" alt="Current Location Animation in Maps">
 
 <strong>Skype Calling<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/skype_calling.gif" alt="Skype Calling">
-
-<strong>Microsoft Teams' Calling<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/calling.gif" alt="Microsoft Teams' Calling">
  
 <strong>The iPhone Camera Timelapse Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/timelapse.gif" alt="Animated Wallpaper">" alt="The iPhone Camera Timelapse Animation">
-
-<strong>Animated Wallpaper Using Hue Rotation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_wallpaper.gif" alt="Animated Wallpaper">
  
 <strong>Motion Path Editing and Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/path_editing_and_animation.gif" alt="Unlock & Lock: Using Custom Timing Function">

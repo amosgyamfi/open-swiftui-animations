@@ -9,6 +9,15 @@
 <strong>Microsoft Teams' Calling<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/calling.gif" alt="Microsoft Teams' Calling">
 
+<strong>SwiftUI Keyframe Animation: Yahoo Weather Onboarding Animation<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/swiftui_keyframe_animation.gif" alt="Yahoo Weather Onboarding Animation">
+ 
+<strong>Yahoo Weather Sun & Wind Animation<strong>
+<img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
+
+<strong>Snoozing and Bell Ringing<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/bedtime.gif" alt="Snoozing and Bell Ringing">
+ 
 <strong>Animated Wallpaper Using Hue Rotation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_wallpaper.gif" alt="Animated Wallpaper">
  
@@ -32,15 +41,6 @@
  
  <strong>Seamlessly Looping Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/waves.gif" alt="Seamlessly Looping Animation">
- 
-<strong>SwiftUI Keyframe Animation: Yahoo Weather Onboarding Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/swiftui_keyframe_animation.gif" alt="Yahoo Weather Onboarding Animation">
- 
-<strong>Yahoo Weather Sun & Wind Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
-
-<strong>Snoozing and Bell Ringing<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/bedtime.gif" alt="Snoozing and Bell Ringing">
  
 <strong>Sequential Inertial Bounce<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/sequential_inertial_bounce.gif" alt="Inertial Bounce">

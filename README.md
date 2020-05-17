@@ -3,6 +3,9 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>Slide to Power Off<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/slide_to_power_off.gif" alt="Slide to Power Off">
+
 <strong>Yahoo Weather Sun & Moon<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/yahoo_weather_sun_and_moon.gif" alt="Yahoo Weather Sun & Moon">
  

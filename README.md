@@ -8,7 +8,7 @@
 
 <strong>iPhone Clock<strong>
 <img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Watch%20Face/iphone_clock.gif
-" alt="SwiftUI Spinners">
+" alt="iPhone Clock">
 
 <strong>Slide to Power Off<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/slide_to_power_off.gif" alt="Slide to Power Off">

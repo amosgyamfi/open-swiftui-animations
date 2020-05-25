@@ -3,12 +3,11 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>iPhone Clock<strong>
+<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Watch%20Face/iphone_clock.gif" alt="iPhone Clock">
+ 
 <strong>SwiftUI Spinners<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/spinners.gif" alt="SwiftUI Spinners">
-
-<strong>iPhone Clock<strong>
-<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Watch%20Face/iphone_clock.gif
-" alt="iPhone Clock">
 
 <strong>Slide to Power Off<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/slide_to_power_off.gif" alt="Slide to Power Off">

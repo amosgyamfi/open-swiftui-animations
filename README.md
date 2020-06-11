@@ -3,6 +3,9 @@
 
 <strong>Demos: https://github.com/amosgyamfi/swiftui-loading-animations/wiki</strong>
 
+<strong>Seamless Looping Wavy Circular Loader<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/wavy_circular_loader.gif" alt="Seamless Looping Wavy Circular Loader">
+
 <strong>Breath Animation in the Calm App<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_calm_app.gif" alt="Breath Animation in the Calm App">
 

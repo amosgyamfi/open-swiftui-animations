@@ -12,6 +12,9 @@
 <strong>iPhone Clock<strong>
 <img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Watch%20Face/iphone_clock.gif" alt="iPhone Clock">
  
+ <strong>Downloading Progress<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/D/download_progress.gif" alt="SwiftUI Spinners">
+
 <strong>SwiftUI Spinners<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/spinners.gif" alt="SwiftUI Spinners">
 

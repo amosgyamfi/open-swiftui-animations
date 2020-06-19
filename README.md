@@ -12,6 +12,10 @@
 <strong>Breath Animation in the Calm App<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_calm_app.gif" alt="Breath Animation in the Calm App">
 
+
+<strong>Audio Levels<strong>
+<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_levels.gif" alt="Audio Levels">
+ 
 <strong>iPhone Clock<strong>
 <img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Watch%20Face/iphone_clock.gif" alt="iPhone Clock">
  

@@ -2,6 +2,7 @@
 <strong>SwiftUI Animations Library</strong>. Useful SwiftUI animations for your next project. 
 
 <strong>YouTube Tutorials: https://www.youtube.com/nimbbble</strong>
+<strong>Animation File: Gist(.swift): https://gist.github.com/amosgyamfie</strong>
 
 <strong>Seamless Looping Wavy Circular Loader<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/wavy_circular_loader.gif" alt="Seamless Looping Wavy Circular Loader">

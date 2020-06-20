@@ -1,142 +1,221 @@
 # swiftui-animations
-<strong>SwiftUI Animations Library</strong>. Useful SwiftUI animations for your next project. 
 
-<strong>YouTube Tutorials: https://www.youtube.com/nimbbble</strong>
-<strong>Animation File: Gist(.swift): https://gist.github.com/amosgyamfie</strong>
+**SwiftUI Animations Library**. Useful SwiftUI animations for your next project.
 
-<strong>Seamless Looping Wavy Circular Loader<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/wavy_circular_loader.gif" alt="Seamless Looping Wavy Circular Loader">
+**YouTube Tutorials: https://www.youtube.com/nimbbble**  
 
-<strong>Touch ID Animation<strong>
-<img src="https://user-images.githubusercontent.com/9307959/85188387-b5100100-b2ae-11ea-89c0-7503be34edf0.gif" alt="Touch Id">
- 
-<strong>Audio Tweet Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_tweet_test.gif" alt="Audio Tweet">
+**Animation File: Gist(.swift): https://gist.github.com/amosgyamfi**
 
-<strong>Breath Animation in the Calm App<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_calm_app.gif" alt="Breath Animation in the Calm App">
+**If you find these SwiftUI animations useful, could you consider sponsoring to keep the SwiftUI animations coming?** 
 
-<strong>Audio Levels<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_levels.gif" alt="Audio Levels">
- 
-<strong>iPhone Clock<strong>
-<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Watch%20Face/iphone_clock.gif" alt="iPhone Clock">
- 
- <strong>Downloading Progress<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/D/download_progress.gif" alt="SwiftUI Spinners">
+**Seamless Looping Wavy Circular Loader**  
+ 
+![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/wavy_circular_loader.gif)
 
-<strong>SwiftUI Spinners<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/spinners.gif" alt="SwiftUI Spinners">
+**Touch ID Animation**  
+ 
+![Touch Id](https://user-images.githubusercontent.com/9307959/85188387-b5100100-b2ae-11ea-89c0-7503be34edf0.gif)
 
-<strong>Slide to Power Off<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/slide_to_power_off.gif" alt="Slide to Power Off">
+**Audio Tweet Animation**  
+ 
+![Audio Tweet](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_tweet_test.gif)
 
-<strong>Yahoo Weather Sun & Moon<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/yahoo_weather_sun_and_moon.gif" alt="Yahoo Weather Sun & Moon">
- 
-<strong>Microsoft Teams' Calling<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/calling.gif" alt="Microsoft Teams' Calling">
+**Breath Animation in the Calm App**  
+ 
+![Breath Animation in the Calm App](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_calm_app.gif)
 
-<strong>SwiftUI Keyframe Animation: Yahoo Weather Onboarding Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/swiftui_keyframe_animation.gif" alt="Yahoo Weather Onboarding Animation">
- 
-<strong>Yahoo Weather Sun & Wind Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
+**Audio Levels**  
+ 
 
-<strong>Snoozing and Bell Ringing<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/bedtime.gif" alt="Snoozing and Bell Ringing">
- 
-<strong>Animated Wallpaper Using Hue Rotation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_wallpaper.gif" alt="Animated Wallpaper">
- 
-<strong>Current Location Animation in Maps<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/current_location_animation.gif" alt="Current Location Animation in Maps">
+![Audio Levels](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_levels.gif)
 
-<strong>Skype Calling<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/skype_calling.gif" alt="Skype Calling">
- 
-<strong>The iPhone Camera Timelapse Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/timelapse.gif" alt="Animated Wallpaper">" alt="The iPhone Camera Timelapse Animation">
- 
-<strong>Motion Path Editing and Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/path_editing_and_animation.gif" alt="Unlock & Lock: Using Custom Timing Function">
- 
-<strong>Unlock & Lock: Using Custom Timing Function<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/unlock.gif" alt="Motion Path Editing and Animation">
- 
-<strong>Spring Animation: iOS 13 Silent Mode Off<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/silent_mode_off.gif" alt="Spring Animation: iOS 13 Silent Mode Off">
- 
- <strong>Seamlessly Looping Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/waves.gif" alt="Seamlessly Looping Animation">
- 
-<strong>Sequential Inertial Bounce<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/sequential_inertial_bounce.gif" alt="Inertial Bounce">
+**iPhone Clock**  
+ 
 
-<strong>Data Loading<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/data_loading.gif" alt="Data Loading/ Pull to refresh">
- 
- <strong>Typing Progress<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/typing.gif" alt="Typing Progress">
- 
-<strong>Content Loading/ Pull to refresh<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/content_loading.gif" alt="Content Loading/ Pull to refresh">
+![iPhone Clock](https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Watch%20Face/iphone_clock.gif)
 
-<strong>Voice Recording/ Ripple Effect<strong>
-<img src="<strong>Map Pin<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/tap_to_record.gif" alt="Voice Recording/ Ripple Effect">
+**Downloading Progress**  
+ 
 
-<strong>Map Pin<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/map_pin.gif" alt="Map Pin">
+![SwiftUI Spinners](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/D/download_progress.gif)
 
-<strong>Syncing Spinner<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/syncing_spinner.gif" alt="Syncing Spinner">
+**SwiftUI Spinners**  
 
-<strong>HUE Rotation: Photographic Visual Effects<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/hue_rotation.gif" alt="HUE Rotation">
- 
-<strong>Notification: Realistic Bell<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/notification_realistic_bell.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
- 
-<strong>Face-ID Style 3D Rotation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/face-id_style_3d_rotation.gif" alt="Face-ID Style 3D Rotation">
- 
-<strong>Simple Notification Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/notification_wake_up.gif" alt="Simple Notification Animation Rotation">
+![SwiftUI Spinners](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/spinners.gif)
 
-<strong>Twitter Like Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/twitter_like.gif" alt="Yahoo Weather, Sun & Wind Animation Example">
+**Slide to Power Off**  
+ 
+![Slide to Power Off](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/slide_to_power_off.gif)
 
-<strong>Biking<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/biking.gif" alt="Biking">
+**Yahoo Weather Sun & Moon**  
+ 
 
-<strong>SwiftUI Animated Illustration<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_illustrations.gif" alt="SwiftUI Animated Illustration">
- 
-<strong>Rotation Along X, Y and Z<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/how_to_3D_rotate.gif" alt="rotation xyz">
- 
-<strong>Breath Animation<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/breath.gif" alt="Breath">
+![Yahoo Weather Sun & Moon](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/yahoo_weather_sun_and_moon.gif)
 
+**Microsoft Teams' Calling**  
+ 
 
-<strong>Pop In Animations<strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/popIn.gif" alt="Pop In Animations">
+![Microsoft Teams' Calling](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/calling.gif)
 
-<strong>Recording</strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/recording.gif" alt="recording">
+**SwiftUI Keyframe Animation: Yahoo Weather Onboarding Animation**  
+ 
 
-<strong>Snowman</strong>
-<img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/snowman.gif" alt="circular motion">
+![Yahoo Weather Onboarding Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/swiftui_keyframe_animation.gif)
 
-<strong>Packman Loader</strong>
-<img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/swiftUI_pacman_twitter.gif" alt="packman">
+**Yahoo Weather Sun & Wind Animation**  
+ 
 
+![Yahoo Weather, Sun & Wind Animation Example](https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/sun_and_wind.gif)
 
-<strong>Voice Recording</strong>
-<img src="https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/voice_recording.gif" alt="radar">
+**Snoozing and Bell Ringing**  
+ 
 
+![Snoozing and Bell Ringing](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/bedtime.gif)
 
+**Animated Wallpaper Using Hue Rotation**  
+ 
 
+![Animated Wallpaper](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_wallpaper.gif)
 
+**Current Location Animation in Maps**  
+ 
 
+![Current Location Animation in Maps](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/current_location_animation.gif)
+
+**Skype Calling**  
+ 
+
+![Skype Calling](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/skype_calling.gif)
+
+**The iPhone Camera Timelapse Animation**  
+ 
+
+![Animated Wallpaper](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/timelapse.gif)
+
+**" alt="The iPhone Camera Timelapse Animation">**
+
+**Motion Path Editing and Animation**  
+ 
+
+![Unlock & Lock: Using Custom Timing Function](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/path_editing_and_animation.gif)
+
+**Unlock & Lock: Using Custom Timing Function**  
+ 
+
+![Motion Path Editing and Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/unlock.gif)
+
+**Spring Animation: iOS 13 Silent Mode Off**  
+ 
+
+![Spring Animation: iOS 13 Silent Mode Off](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/silent_mode_off.gif)
+
+**Seamlessly Looping Animation**  
+ 
+
+![Seamlessly Looping Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/waves.gif)
+
+**Sequential Inertial Bounce**  
+ 
+
+![Inertial Bounce](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/sequential_inertial_bounce.gif)
+
+**Data Loading**  
+ 
+
+![Data Loading/ Pull to refresh](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/data_loading.gif)
+
+**Typing Progress**  
+ 
+
+![Typing Progress](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/typing.gif)
+
+**Content Loading/ Pull to refresh**  
+ 
+
+![Content Loading/ Pull to refresh](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/content_loading.gif)
+
+**Voice Recording/ Ripple Effect**  
+**\<img src="Map Pin**  
+ 
+
+![Voice Recording/ Ripple Effect](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/tap_to_record.gif)
+
+**Map Pin**  
+ 
+
+![Map Pin](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/map_pin.gif)
+
+**Syncing Spinner**  
+ 
+
+![Syncing Spinner](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/syncing_spinner.gif)
+
+**HUE Rotation: Photographic Visual Effects**  
+ 
+
+![HUE Rotation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/hue_rotation.gif)
+
+**Notification: Realistic Bell**  
+ 
+
+![Yahoo Weather, Sun & Wind Animation Example](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/notification_realistic_bell.gif)
+
+**Face-ID Style 3D Rotation**  
+ 
+
+![Face-ID Style 3D Rotation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/face-id_style_3d_rotation.gif)
+
+**Simple Notification Animation**  
+ 
+
+![Simple Notification Animation Rotation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/notification_wake_up.gif)
+
+**Twitter Like Animation**  
+ 
+
+![Yahoo Weather, Sun & Wind Animation Example](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/twitter_like.gif)
+
+**Biking**  
+ 
+
+![Biking](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/biking.gif)
+
+**SwiftUI Animated Illustration**  
+ 
+
+![SwiftUI Animated Illustration](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/animated_illustrations.gif)
+
+**Rotation Along X, Y and Z**  
+ 
+
+![rotation xyz](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/how_to_3D_rotate.gif)
+
+**Breath Animation**  
+ 
+
+![Breath](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/breath.gif)
+
+**Pop In Animations**  
+ 
+
+![Pop In Animations](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/popIn.gif)
+
+**Recording**  
+ 
+
+![recording](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/recording.gif)
+
+**Snowman**  
+ 
+
+![circular motion](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/snowman.gif)
+
+**Packman Loader**  
+ 
+
+![packman](https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/swiftUI_pacman_twitter.gif)
+
+**Voice Recording**  
+ 
+
+![radar](https://github.com/amosgyamfi/swiftui-loading-animations/blob/master/voice_recording.gif)

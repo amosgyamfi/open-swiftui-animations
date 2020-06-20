@@ -6,7 +6,7 @@
 
 **Animation File: Gist(.swift): https://gist.github.com/amosgyamfi**
 
-**If you find these SwiftUI animations useful, could you consider sponsoring to keep the SwiftUI animations coming?** 
+***If you find these SwiftUI animations useful, could you consider sponsoring to keep the SwiftUI animations coming?*** 
 
 **Seamless Looping Wavy Circular Loader**  
  

@@ -7,6 +7,9 @@
 <strong>Seamless Looping Wavy Circular Loader<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/wavy_circular_loader.gif" alt="Seamless Looping Wavy Circular Loader">
 
+<strong>Touch ID Animation<strong>
+<img src="https://gist.github.com/amosgyamfi/face38fc7ec30003f1ede91225d06f2e#gistcomment-3348173" alt="Touch Id">
+ 
 <strong>Audio Tweet Animation<strong>
 <img src="https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_tweet_test.gif" alt="Audio Tweet">
 

@@ -25,9 +25,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ![Touch Id](https://user-images.githubusercontent.com/9307959/85188387-b5100100-b2ae-11ea-89c0-7503be34edf0.gif)
 
-## **Audio Tweet Animation**
+## **Hamburger to Close Animation**
 
-![Audio Tweet](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_tweet_test.gif)
+![Audio Tweet](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/hamburger-to-close.gif)
 
 ## **Breath Animation in the Calm App**
 

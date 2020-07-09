@@ -21,6 +21,10 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/wavy_circular_loader.gif)
 
+## **Vapor or Smoke**
+
+![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/vapor.gif)
+
 **Touch ID Animation**
 
 ![Touch Id](https://user-images.githubusercontent.com/9307959/85188387-b5100100-b2ae-11ea-89c0-7503be34edf0.gif)

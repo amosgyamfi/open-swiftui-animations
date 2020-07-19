@@ -17,6 +17,10 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   https://twitter.com/BigMtnStudio
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 
+## **Beautiful Breath Animation**
+
+![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)
+
 ## **Seamless Looping Wavy Circular Loader**
 
 ![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/wavy_circular_loader.gif)

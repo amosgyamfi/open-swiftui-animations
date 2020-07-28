@@ -16,6 +16,8 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   https://github.com/lennet
 *   https://twitter.com/BigMtnStudio
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
+*   https://twitter.com/IslamSharabash
+
 
 ## **Beautiful Breath Animation**
 

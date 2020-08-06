@@ -21,7 +21,13 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ## **Beautiful Breath Animation**
 
-![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)
+![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)
+
+
+
+## **Wiggle**
+
+![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/wiggle.gif)
 
 ## **Seamless Looping Wavy Circular Loader**
 

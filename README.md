@@ -6,7 +6,7 @@
 
 **Animation File: Gist(.swift): https://gist.github.com/amosgyamfi**
 
-_**If you find these SwiftUI animations useful, could you consider sponsoring or <a href="https://www.buymeacoffee.com/8rDfFWY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 113px !important;" ></a> to keep the SwiftUI animations coming?**_
+_**If you find these SwiftUI animations useful, could you consider sponsoring or buy me a coffee to keep the SwiftUI animations coming?<a href="https://www.buymeacoffee.com/8rDfFWY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 113px !important;" ></a>**_
 
 ## **Kudos**
 

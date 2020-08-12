@@ -20,10 +20,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   https://twitter.com/IslamSharabash
 
 ## **Beautiful Breath Animation**
-
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)
-## **Wiggle**
 
+## **Wiggle**
 ![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/wiggle.gif)
 
 ## **Smooth Transition: Matched Geometry Effect**

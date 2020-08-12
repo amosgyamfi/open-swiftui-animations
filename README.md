@@ -29,6 +29,8 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/matched_geometry.gif)
 
+## **A Summary Notification View into a Detailed View Using Geometry Matching**
+![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/N/notifications.gif)
 
 ## **Seamless Looping Wavy Circular Loader**
 

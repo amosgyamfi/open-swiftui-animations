@@ -12,19 +12,16 @@ _**If you find these SwiftUI animations useful, could you consider sponsoring or
 
 Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a Coffee and PayPal:
 
+*   https://twitter.com/migueldeicaza
 *   https://github.com/Rosin355
 *   https://github.com/lennet
 *   https://twitter.com/BigMtnStudio
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
-
 ## **Beautiful Breath Animation**
 
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)
-
-
-
 ## **Wiggle**
 
 ![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/wiggle.gif)
@@ -42,10 +39,7 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ![Loading...](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/custom_swiftUI_loading.gif)
 
-**Vapor or Smoke**
-![Vapor or Smoke](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/vapor.gif)
-
-
+**Seamless Looping Wavy Circular Loader**
 ![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/vapor.gif)
 
 **Touch ID Animation**
@@ -175,9 +169,6 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ![Yahoo Weather, Sun & Wind Animation Example](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/twitter_like.gif)
 
-**Biking**
-
-![Biking](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/biking.gif)
 
 **SwiftUI Animated Illustration**
 
@@ -191,9 +182,6 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ![Breath](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/breath.gif)
 
-**Pop In Animations**
-
-![Pop In Animations](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/popIn.gif)
 
 **Recording**
 

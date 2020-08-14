@@ -25,12 +25,15 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Wiggle**
 ![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/wiggle.gif)
 
+## **Springy, Splashy Like Animation**
+![Like Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/Like/like_animation.gif)
+
 ## **Smooth Transition: Matched Geometry Effect**
 
 ![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/matched_geometry.gif)
 
 ## **A Summary Notification View into a Detailed View Using Geometry Matching**
-![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/N/notifications.gif)
+![Notification](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/N/notifications.gif)
 
 ## **Seamless Looping Wavy Circular Loader**
 

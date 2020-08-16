@@ -25,6 +25,10 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Wiggle**
 ![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/wiggle.gif)
 
+
+## **iOS 14 3D Parallax Effect**
+![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/Parallax%203D/ios_3d_parallax.gif
+
 ## **Springy, Splashy Like Animation**
 ![Like Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/Like/like_animation.gif)
 

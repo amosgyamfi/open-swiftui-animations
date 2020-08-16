@@ -27,14 +27,14 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 
 ## **iOS 14 3D Parallax Effect**
-![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/Parallax%203D/ios_3d_parallax.gif
+![iOS 14 3D Parallax Effect](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/Parallax%203D/ios_3d_parallax.gif
 
 ## **Springy, Splashy Like Animation**
 ![Like Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/Like/like_animation.gif)
 
 ## **Smooth Transition: Matched Geometry Effect**
 
-![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/matched_geometry.gif)
+![Matched Geometry](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/matched_geometry.gif)
 
 ## **A Summary Notification View into a Detailed View Using Geometry Matching**
 ![Notification](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/N/notifications.gif)

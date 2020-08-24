@@ -22,6 +22,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Beautiful Breath Animation**
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)
 
+## **Kayak Onboarding Animation: https://www.buymeacoffee.com/8rDfFWY/e/6369**
+![Kayak Onboarding Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/K/SwiftUIKayakAnimation.gif)
+
 ## **Wiggle**
 ![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/wiggle.gif)
 

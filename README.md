@@ -25,6 +25,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Measuring Heartrate**
 ![Measuring Heartrate](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/heartrate.gif)
 
+## **Heartbeat**
+![Heartbeat](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/heartbeat.gif)
+
 ## **Beautiful Breath Animation**
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)
 

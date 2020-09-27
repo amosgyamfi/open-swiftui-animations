@@ -19,6 +19,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## **Calling Animation**
+![Calling Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/loading.gif)
+
 ## **Glowing Ring Loader**
 ![Glowing Ring Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/loading.gif)
 

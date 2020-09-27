@@ -20,7 +20,7 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   https://twitter.com/IslamSharabash
 
 ## **Calling Animation**
-![Calling Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/loading.gif)
+![Calling Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/swiftUI_calling_animation.gif)
 
 ## **Glowing Ring Loader**
 ![Glowing Ring Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/loading.gif)

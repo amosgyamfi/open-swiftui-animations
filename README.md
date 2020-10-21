@@ -19,6 +19,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## **Hue Rotation Animation: Gradient**
+![Hue Rotation: Gradient](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/hueRotationAnimation.gif)
+
 ## **Calling Animation**
 ![Calling Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/swiftUI_calling_animation.gif)
 

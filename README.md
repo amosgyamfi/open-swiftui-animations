@@ -19,6 +19,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## **Dynamic iPhone Lock Screen Animation**
+![Dynamic iPhone Lock Screen Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/iOS_LockScreen_Animation.gif)
+
 ## **Hue Rotation Animation: Gradient**
 ![Hue Rotation: Gradient](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/hueRotationAnimation.gif)
 

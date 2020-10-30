@@ -34,6 +34,10 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Glowing Ring Loader**
 ![Glowing Ring Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/loading.gif)
 
+
+## **Like Reactions**
+![Like Reactions](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/like_reactions.gif)
+
 ## **Measuring Heartrate**
 ![Measuring Heartrate](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/heartrate.gif)
 

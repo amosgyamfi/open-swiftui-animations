@@ -19,6 +19,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## **Swinging: Onboarding Animation**
+![Swinging: Onboarding Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swinging_relaxing_animation.gif)
+
 ## **Rotate Views in 3D Space**
 ![Rotate Views in 3D Space](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/R/3DRotation.gif)
 

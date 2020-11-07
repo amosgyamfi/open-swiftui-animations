@@ -31,6 +31,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Hue Rotation Animation: Gradient**
 ![Hue Rotation: Gradient](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/hueRotationAnimation.gif)
 
+## **Audio/Sound Signals**
+![Audio/Sound Signals](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/sound_signals.gif)
+
 ## **Calling Animation**
 ![Calling Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/swiftUI_calling_animation.gif)
 

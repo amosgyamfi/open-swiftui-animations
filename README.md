@@ -19,6 +19,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## **Breathing Animation for Relaxation**
+![Breathing Animation for Relaxation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/J/just_breathe.gif)
+
 ## **Swinging: Onboarding Animation**
 ![Swinging: Onboarding Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swinging_relaxing_animation.gif)
 

@@ -22,8 +22,11 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Breathing Animation for Relaxation**
 ![Breathing Animation for Relaxation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/J/just_breathe.gif)
 
-## **360 Background Animation**
-![360 Background Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/360_background_animation.gif)
+## **Breathing Animation for Relaxation**
+![Breathing Animation for Relaxation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swiftUI_motion_design.gif)
+
+## **Rotation & 360 Background Animation**
+![Rotation & 360 Background Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/360_background_animation.gif)
 
 ## **Swinging: Onboarding Animation**
 ![Swinging: Onboarding Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swinging_relaxing_animation.gif)

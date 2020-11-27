@@ -19,6 +19,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## **SwiftUI Facebook Live Comments Animation**
+![SwiftUI Facebook Live Comments Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/facebook_live_comments.gif)
+
 ## **Breathing Animation for Relaxation**
 ![Breathing Animation for Relaxation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/J/just_breathe.gif)
 

@@ -8,6 +8,10 @@
 
 _**If you find these SwiftUI animations useful, could you consider sponsoring or buy me a coffee to keep the SwiftUI animations coming?<a href="https://www.buymeacoffee.com/8rDfFWY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 113px !important;" ></a>**_
 
+Join on Skillshare:
+*   https://www.skillshare.com/classes/SwiftUI-Create-Breath-Animation-for-Relaxation/237326495
+*   https://www.skillshare.com/classes/SwiftUI-User-Interface-Construction-Design-StepsApp%E2%80%99s-Activity-Summary-UI/1003015899
+
 ## **Kudos**
 
 Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a Coffee and PayPal:
@@ -18,6 +22,10 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   https://twitter.com/BigMtnStudio
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
+
+
+## **Marching Ants Effect**
+![Marching Ants Effect](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/matching_ants.gif)
 
 ## **SwiftUI Facebook Live Comments Animation**
 ![SwiftUI Facebook Live Comments Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/facebook_live_comments.gif)

@@ -33,7 +33,7 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **SwiftUI Facebook Live Comments Animation**
 ![SwiftUI Facebook Live Comments Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/facebook_live_comments.gif)
 
-## **Breathing Animation for Relaxation**
+## **Breathing Animation for Relaxation: <a href="https://www.skillshare.com/classes/SwiftUI-Create-Breath-Animation-for-Relaxation/237326495">Learn</a>**
 ![Breathing Animation for Relaxation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/J/just_breathe.gif)
 
 ## **Motion & 360 Background Animation**

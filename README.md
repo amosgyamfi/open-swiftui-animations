@@ -24,6 +24,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   https://twitter.com/IslamSharabash
 
 
+## **Waveform: <a href="https://gist.github.com/amosgyamfi/7453967a7b07f90d7139c3a350ab6b7f">Gist</a>**
+![Waveform](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/waveform.gif)
+
 ## **Marching Ants Effect**
 ![Marching Ants Effect](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/matching_ants.gif)
 

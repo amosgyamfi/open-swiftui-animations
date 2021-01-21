@@ -23,8 +23,8 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
-## **Waveform: <a href="https://gist.github.com/amosgyamfi/30e133581d3c3e5ed4d6fe988d3558ce#file-3d_circular_motion-swift">Gist</a>**
-![Waveform](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/SwiftUI-3d.gif)
+## **Rotate on 3D Circular Path: <a href="https://gist.github.com/amosgyamfi/30e133581d3c3e5ed4d6fe988d3558ce#file-3d_circular_motion-swift">Gist</a>**
+![Rotate on 3D Circular Path](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/SwiftUI-3d.gif)
 
 ## **Waveform: <a href="https://gist.github.com/amosgyamfi/7453967a7b07f90d7139c3a350ab6b7f">Gist</a>**
 ![Waveform](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/waveform.gif)

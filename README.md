@@ -8,8 +8,8 @@
 
 _**If you find these SwiftUI animations useful, could you consider sponsoring or buy me a coffee to keep the SwiftUI animations coming?<a href="https://www.buymeacoffee.com/8rDfFWY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 113px !important;" ></a>**_
 
-## **Become a student on UDEMY
-* SwiftUI Animation Foundations: Fundamentals: https://www.udemy.com/course/swiftui-animation-foundations/?referralCode=82F5D165CCE2758306FA
+**Become a student on UDEMY
+* <a href="https://www.udemy.com/course/swiftui-animation-foundations/?referralCode=82F5D165CCE2758306FA">SwiftUI Animation Foundations: Fundamentals</a> 
 
 ## **Join on SKILLSHARE**
 *   https://www.skillshare.com/classes/SwiftUI-Create-Breath-Animation-for-Relaxation/237326495

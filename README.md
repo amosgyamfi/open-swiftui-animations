@@ -6,7 +6,7 @@
 
 **Animation File: Gist(.swift): https://gist.github.com/amosgyamfi**
 
-_**If you find these SwiftUI animations useful, could you consider sponsoring or buy me a coffee to keep the SwiftUI animations coming?<a href="https://www.buymeacoffee.com/8rDfFWY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 113px !important;" ></a>**_
+_**If you find these SwiftUI animations useful, could you consider sponsoring or buy me a coffee to keep the SwiftUI animations coming?<a href="https://www.buymeacoffee.com/8rDfFWY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 113px !important;" ></a>**
 
 ## **Become a student on UDEMY**
 * <a href="https://www.udemy.com/course/swiftui-animation-foundations/?referralCode=82F5D165CCE2758306FA" target="_blank">SwiftUI Animation Foundations: Fundamentals</a> 
@@ -27,7 +27,11 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   https://twitter.com/IslamSharabash
 
 ## **Focus Meditation <a href="https://gist.github.com/amosgyamfi/a82a9836c06d64fe0c947daeb6fb4fa1#file-focus_meditation-swift">Gist</a>**
-![Rotate on 3D Circular Path](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/ANIMATION_in_APPS/focus_meditation.gif)
+![Focus Meditation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/ANIMATION_in_APPS/focus_meditation.gif)
+
+## **Core Animation Tecniques <a href="https://gist.github.com/amosgyamfi/6383d2bdb98abedb810c0dfb41b57b2a#file-coreanimation_rotation_scale_position-swift">Gist</a>**
+![Core Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/core_animation.gif)
+
 
 ## **3D Motion and Rotation: <a href="">Gist: Coming soon</a>**
 ![Rotate on 3D Circular Path](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/delightful_swiftUI_animation.gif)

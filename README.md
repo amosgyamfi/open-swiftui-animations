@@ -26,6 +26,8 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## **Focus Meditation <a href="https://gist.github.com/amosgyamfi/a82a9836c06d64fe0c947daeb6fb4fa1#file-focus_meditation-swift">Gist</a>**
+![Rotate on 3D Circular Path](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/ANIMATION_in_APPS/focus_meditation.gif)
 
 ## **3D Motion and Rotation: <a href="">Gist: Coming soon</a>**
 ![Rotate on 3D Circular Path](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/delightful_swiftUI_animation.gif)

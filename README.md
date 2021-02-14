@@ -32,6 +32,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Focus Meditation <a href="https://gist.github.com/amosgyamfi/a82a9836c06d64fe0c947daeb6fb4fa1#file-focus_meditation-swift">Gist</a>**
 ![Focus Meditation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/ANIMATION_in_APPS/focus_meditation.gif)
 
+## **Proceed with TouchID <a href="#">Gist</a>**
+![Core Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/P/proceed_with_touchID.gif)
+
 ## **Core Animation Tecniques <a href="https://gist.github.com/amosgyamfi/6383d2bdb98abedb810c0dfb41b57b2a#file-coreanimation_rotation_scale_position-swift">Gist</a>**
 ![Core Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/core_animation.gif)
 

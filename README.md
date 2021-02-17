@@ -26,6 +26,10 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+
+## **Steps Counter <a href="#">Gist</a>**
+![Steps Counting Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swiftUI_steps_counter.gif)
+
 ## **Audio Recording Animation <a href="#">Gist</a>**
 ![Audio Recording Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_metering_animation.gif)
 
@@ -37,7 +41,6 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ## **Core Animation Tecniques <a href="https://gist.github.com/amosgyamfi/6383d2bdb98abedb810c0dfb41b57b2a#file-coreanimation_rotation_scale_position-swift">Gist</a>**
 ![Core Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/core_animation.gif)
-
 
 ## **3D Motion and Rotation: <a href="">Gist: Coming soon</a>**
 ![Rotate on 3D Circular Path](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/delightful_swiftUI_animation.gif)

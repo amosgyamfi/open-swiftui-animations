@@ -29,14 +29,14 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **SwiftUI Twitter Like Animation <a href="https://gist.github.com/amosgyamfi/d1e823ba9fdf1f22834c842d78e862de">Gist</a>**
 ![Twitter Like Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/T/twitter-like.gif)
 
-## **SwiftUI Proceed with TouchID Animation<a href="https://gist.github.com/amosgyamfi/fb8785f713a79ee00a0f887600e57671#file-proceed_with_touchid-swift">Gist</a>**
+## **SwiftUI Proceed with TouchID Animation <a href="https://gist.github.com/amosgyamfi/fb8785f713a79ee00a0f887600e57671#file-proceed_with_touchid-swift">Gist</a>**
 ![SwiftUI Proceed with TouchID Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/P/proceed_with_touchID.gif)
 
 ## **SwiftUI Arc Menu Animation & Interaction <a href="https://gist.github.com/amosgyamfi/d2d7d5aefa9e7af62dcb9d9fdf97fe81">Gist</a>**
 ![Arc Menu Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/arc_menu.gif)
 
 
-## **SwiftUI Steps Counter Animation<a href="https://gist.github.com/amosgyamfi/d5d8100fd60026547d18e71613259cc6">Gist</a>**
+## **SwiftUI Steps Counter Animation <a href="https://gist.github.com/amosgyamfi/d5d8100fd60026547d18e71613259cc6">Gist</a>**
 ![Steps Counting Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swiftUI_steps_counter.gif)
 
 ## **Audio Recording Animation <a href="https://gist.github.com/amosgyamfi/cdd523f41c4b2f56091f4b3ccae31591">Gist</a>**

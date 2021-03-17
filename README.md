@@ -44,6 +44,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **SwiftUI Steps Counter Animation <a href="https://gist.github.com/amosgyamfi/d5d8100fd60026547d18e71613259cc6">Gist</a>**
 ![Steps Counting Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swiftUI_steps_counter.gif)
 
+## ** Concentric circles into a circular coil spring <a href="https://gist.github.com/amosgyamfi/1aea62ba2a2899271f66915adcc90e5f#file-concentric_circles-swift">Gist</a>**
+![Concentric circles into a circular coil spring](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/coil_motion.gif)
+
 ## **Audio Recording Animation <a href="https://gist.github.com/amosgyamfi/cdd523f41c4b2f56091f4b3ccae31591">Gist</a>**
 ![Audio Recording Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_metering_animation.gif)
 

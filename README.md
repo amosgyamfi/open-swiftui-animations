@@ -35,6 +35,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Login with FaceID Animation <a href="https://gist.github.com/amosgyamfi/5a610952bb3eb6e5ee36c13a654881b5">Gist</a>**
 ![Login with FaceID Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/faceID.gif)
 
+## ** Live Comments <a href="#">Gist</a>**
+![Live Comments](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/live_comments_updated.gif)
+
 ## ** How to Offset-Rotate in SwiftUI (like in CSS) <a href="#">Gist</a>**
 ![How to Offset-Rotate](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/O/offset_rotate.gif)
 

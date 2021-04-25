@@ -26,6 +26,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## **Animated Illustration <a href="#">Gist</a>**
+![Animated Illustration](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/animated_illustration.gif)
+
 ## **SwiftUI Twitter Like Animation <a href="https://gist.github.com/amosgyamfi/d1e823ba9fdf1f22834c842d78e862de">Gist</a>**
 ![Twitter Like Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/T/twitter-like.gif)
 

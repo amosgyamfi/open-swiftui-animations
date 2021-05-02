@@ -29,6 +29,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Breath Animation <a href="#">Gist</a>**
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath.gif)
 
+## **SwiftUI Kayak Animation: https://www.buymeacoffee.com/8rDfFWY/e/6369**
+![Kayak Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/K/kayak_animation_updated.gif)
+
 ## **Animated Illustration <a href="#">Gist</a>**
 ![Animated Illustration](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/animated_illustration.gif)
 
@@ -125,9 +128,6 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ## **Beautiful Breath Animation**
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)
-
-## **Kayak Onboarding Animation: https://www.buymeacoffee.com/8rDfFWY/e/6369**
-![Kayak Onboarding Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/K/SwiftUIKayakAnimation.gif)
 
 ## **Wiggle**
 ![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/wiggle.gif)

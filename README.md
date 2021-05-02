@@ -26,6 +26,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## **Breath Animation <a href="#">Gist</a>**
+![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath.gif)
+
 ## **Animated Illustration <a href="#">Gist</a>**
 ![Animated Illustration](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/animated_illustration.gif)
 

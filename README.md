@@ -26,7 +26,7 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
-## ** Breath Animation with Hard Light, Difference and Exclusion blendmodes <a href="#">Gist</a>**
+## Breathe Animation with Hard Light, Difference and Exclusion blend modes <a href="#">Gist</a>
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/blendmodes.gif)
 
 ## **SwiftUI Kayak Animation: https://www.buymeacoffee.com/8rDfFWY/e/6369**

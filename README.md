@@ -32,11 +32,11 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## Breathe Animation with Hard Light, Difference and Exclusion blend modes <a href="#">Gist</a>
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/blendmodes.gif)
 
-## **SwiftUI Kayak Animation: https://www.buymeacoffee.com/8rDfFWY/e/6369**
-![Kayak Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/K/kayak_animation_updated.gif)
+## **SwiftUI Animation: MS Teams-Style Calling Animation <a href="#">Gist</a>**
+![MS Teams-Style Calling Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/MS_Teams-Style_calling_animation.gif)
 
-## **Animated Illustration <a href="#">Gist</a>**
-![Animated Illustration](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/animated_illustration.gif)
+## **SwiftUI Animation: Incoming Call <a href="https://gist.github.com/amosgyamfi/d1e823ba9fdf1f22834c842d78e862de">Gist</a>**
+![SwiftUI Animation: Incoming Call](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/incoming_call_animation.gif)
 
 ## **SwiftUI Twitter Like Animation <a href="https://gist.github.com/amosgyamfi/d1e823ba9fdf1f22834c842d78e862de">Gist</a>**
 ![Twitter Like Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/T/twitter-like.gif)
@@ -46,6 +46,12 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ## **Login with FaceID Animation <a href="https://gist.github.com/amosgyamfi/5a610952bb3eb6e5ee36c13a654881b5">Gist</a>**
 ![Login with FaceID Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/faceID.gif)
+
+## **SwiftUI Kayak Animation: https://www.buymeacoffee.com/8rDfFWY/e/6369**
+![Kayak Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/K/kayak_animation_updated.gif)
+
+## **Animated Illustration <a href="#">Gist</a>**
+![Animated Illustration](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/animated_illustration.gif)
 
 ## ** Live Comments <a href="#">Gist</a>**
 ![Live Comments](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/live_comments_updated.gif)
@@ -92,17 +98,11 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Breathing Animation for Relaxation: <a href="https://www.skillshare.com/classes/SwiftUI-Create-Breath-Animation-for-Relaxation/237326495">Learn</a>**
 ![Breathing Animation for Relaxation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/J/just_breathe.gif)
 
-## **Motion & 360 Background Animation**
-![Motion & 360 Background Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swiftUI_motion_design.gif)
-
 ## **360 Background Animation**
 ![360 Background Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/360_background_animation.gif)
 
 ## **Swinging: Onboarding Animation**
 ![Swinging: Onboarding Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swinging_relaxing_animation.gif)
-
-## **Rotate Views in 3D Space**
-![Rotate Views in 3D Space](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/R/3DRotation.gif)
 
 ## **Dynamic iPhone Lock Screen Animation**
 ![Dynamic iPhone Lock Screen Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/iOS_LockScreen_Animation.gif)
@@ -125,9 +125,6 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ## **Measuring Heartrate**
 ![Measuring Heartrate](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/heartrate.gif)
-
-## **Heartbeat**
-![Heartbeat](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/heartbeat.gif)
 
 ## **Beautiful Breath Animation**
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)

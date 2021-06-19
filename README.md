@@ -29,6 +29,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## Weather Notification Animation <a href="#">Gist</a>
 ![Weather Notification Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/weather_notification.gif)
 
+## Upload Button Animation <a href="https://gist.github.com/amosgyamfi/24f26e44243fe75cf5cb3adbdacb1ce2#file-upload_button_animation-swift">Gist</a>
+![Upload Button Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/U/upload_animation.gif)
+
 ## Breathe Animation with Hard Light, Difference and Exclusion blend modes <a href="#">Gist</a>
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/blendmodes.gif)
 

@@ -26,6 +26,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## SwiftUI Fireworks Animation <a href="#">Gist</a>
+![SwiftUI Fireworks Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/fireworks.gif)
+
 ## Weather Notification Animation <a href="#">Gist</a>
 ![Weather Notification Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/weather_notification.gif)
 

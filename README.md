@@ -29,6 +29,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## Emit Fireworks in all directions <a href="#">Gist</a>
 ![SwiftUI Fireworks Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/E/emit_fireworks_in_all_directions.gif)
 
+## iOS Shimmer Animation/Effect 
+![iOS Shimmer Animation/Effect](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/ios_shimmer_effect.gif)
+
 ## SwiftUI Fireworks Animation <a href="#">Gist</a>
 ![SwiftUI Fireworks Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/fireworks.gif)
 

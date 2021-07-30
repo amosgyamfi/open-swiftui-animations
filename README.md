@@ -26,6 +26,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## Copying File SwiftUI Animation <a href="#">Gist</a>
+![Copying File SwiftUI Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/copying_files.gif)
+
 ## Emit Fireworks in all directions <a href="#">Gist</a>
 ![SwiftUI Fireworks Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/E/emit_fireworks_in_all_directions.gif)
 

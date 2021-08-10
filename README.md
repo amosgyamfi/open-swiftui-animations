@@ -26,6 +26,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## Crafting Easings for Add Flavor to Motion <a href="https://gist.github.com/amosgyamfi/96258db9fa3f09a9101750c52c936e73">Gist</a>
+![Crafting Easings for Add Flavor to Motion](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/E/crafting_easings.gif)
+
 ## Copying File SwiftUI Animation <a href="#">Gist</a>
 ![Copying File SwiftUI Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/copying_files.gif)
 

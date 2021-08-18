@@ -26,8 +26,8 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
-## Crafting Easings for Add Flavor to Motion <a href="https://gist.github.com/amosgyamfi/0b7430199a1d590787852ec741ec7b13">Gist</a>
-![Crafting Easings for Add Flavor to Motion](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/animation_types.gif)
+## Designing Basic, Keyframe & Group Animations <a href="https://gist.github.com/amosgyamfi/0b7430199a1d590787852ec741ec7b13">Gist</a>
+![Designing Basic, Keyframe & Group Animations](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/animation_types.gif)
 
 ## Crafting Easings for Add Flavor to Motion <a href="https://gist.github.com/amosgyamfi/96258db9fa3f09a9101750c52c936e73">Gist</a>
 ![Crafting Easings for Add Flavor to Motion](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/E/crafting_easings.gif)

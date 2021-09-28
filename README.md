@@ -29,6 +29,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## Live Animated Reactions <a href=""></a>
 ![Live Animated Reactions](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/R/reactions_dribbble.gif)
 
+## Syncing Loader <a href=""></a>
+![Syncing Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/synced.gif)
+
 ## Designing Basic, Keyframe & Group Animations <a href="https://gist.github.com/amosgyamfi/0b7430199a1d590787852ec741ec7b13">Gist</a>
 ![Designing Basic, Keyframe & Group Animations](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/animation_types.gif)
 

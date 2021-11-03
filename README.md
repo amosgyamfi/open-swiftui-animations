@@ -13,9 +13,9 @@ I am also building and maintaining these 2 Stream repositories:
 
 **Animation File: Gist(.swift): https://gist.github.com/amosgyamfi**
 
-**If you find these SwiftUI animations useful, could you consider sponsoring or buy me a coffee to keep the SwiftUI animations coming?
+If you find these SwiftUI animations useful, could you consider sponsoring or buy me a coffee to keep the SwiftUI animations coming?
 
-<a href="https://www.buymeacoffee.com/8rDfFWY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 113px !important;" ></a>**
+<a href="https://www.buymeacoffee.com/8rDfFWY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 113px !important;" ></a>
 
 ## **Become a student on UDEMY**
 * <a href="https://www.udemy.com/course/swiftui-animation-foundations/?referralCode=82F5D165CCE2758306FA" target="_blank">SwiftUI Animation Foundations: Fundamentals</a> 

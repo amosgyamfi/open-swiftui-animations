@@ -2,7 +2,7 @@
 
 **SwiftUI Animations Library**. Useful SwiftUI animations for your next project.
 
-I am also building these 2 Stream repositories:
+I am also building and maintaining these 2 Stream repositories:
 
 **Stream iOS Interaction Patterns: https://github.com/GetStream/stream-chat-ios-interaction-patterns**
 

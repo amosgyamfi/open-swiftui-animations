@@ -2,11 +2,12 @@
 
 **SwiftUI Animations Library**. Useful SwiftUI animations for your next project.
 
-I am also building these 2 Stream repositories
+I am also building these 2 Stream repositories:
 
 **Stream iOS Interaction Patterns: https://github.com/GetStream/stream-chat-ios-interaction-patterns**
-**Stream SwiftUI Animations: https://github.com/GetStream/stream-swiftui-animations**
 
+**Stream SwiftUI Animations: https://github.com/GetStream/stream-swiftui-animations**
+<a href=""></a>
 **YouTube Tutorials: https://www.youtube.com/nimbbble**
 
 **Animation File: Gist(.swift): https://gist.github.com/amosgyamfi**

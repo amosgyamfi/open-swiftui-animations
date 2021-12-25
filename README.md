@@ -35,11 +35,17 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
-## Live Animated Reactions <a href=""></a>
-![Live Animated Reactions](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/R/reactions_dribbble.gif)
-
 ## Messages-like Screen Effects <a href="https://github.com/GetStream/stream-swiftui-animations">SwiftUI Animation Codes</a>
 ![Messages-like Screen Effects ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/allScreenEffects.gif)
+
+## Logo Animation <a href="https://github.com/GetStream/stream-swiftui-animations">Gist</a>
+![Logo Animation](https://github.com/GetStream/stream-swiftui-animations/blob/main/LaunchScreen/launchScren.gif)
+
+## Stream Logo Animation <a href="https://github.com/GetStream/stream-swiftui-animations">Gist</a>
+![Logo Animation](https://github.com/GetStream/stream-swiftui-animations/blob/main/LaunchScreen/stream_loader.gif)
+
+## Live Animated Reactions <a href=""></a>
+![Live Animated Reactions](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/R/reactions_dribbble.gif)
 
 ## Syncing Loader <a href=""></a>
 ![Syncing Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/synced.gif)

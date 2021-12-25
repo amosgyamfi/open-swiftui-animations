@@ -38,6 +38,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## Live Animated Reactions <a href=""></a>
 ![Live Animated Reactions](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/R/reactions_dribbble.gif)
 
+## Messages-like Screen Effects <a href="https://github.com/GetStream/stream-swiftui-animations">SwiftUI Animation Codes</a>
+![Messages-like Screen Effects ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/allScreenEffects.gif)
+
 ## Syncing Loader <a href=""></a>
 ![Syncing Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/synced.gif)
 

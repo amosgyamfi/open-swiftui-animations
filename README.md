@@ -38,6 +38,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## Messages-like Screen Effects <a href="https://github.com/GetStream/stream-swiftui-animations">SwiftUI Animation Codes</a>
 ![Messages-like Screen Effects ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/allScreenEffects.gif)
 
+## SwiftUI Chat Micro-interactions with Spring Animation <a href="s">Gist</a>
+![SwiftUI Chat Micro-interactions with Spring Animation ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/MessengerReactionsGestures.gif)
+
 ## Logo Animation <a href="https://github.com/GetStream/stream-swiftui-animations">Gist</a>
 ![Logo Animation](https://github.com/GetStream/stream-swiftui-animations/blob/main/LaunchScreen/launchScren.gif)
 

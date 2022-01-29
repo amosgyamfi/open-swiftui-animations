@@ -50,8 +50,8 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## Stream Logo Animation <a href="https://github.com/GetStream/stream-swiftui-animations">Gist</a>
 ![Logo Animation](https://github.com/GetStream/stream-swiftui-animations/blob/main/LaunchScreen/stream_loader.gif)
 
-## Live Animated Reactions <a href=""></a>
-![Live Animated Reactions](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/R/reactions_dribbble.gif)
+## Group Live Stream Animations <a href="#">Gist</a>
+![Empty Chat Animation](https://github.com/GetStream/stream-swiftui-animations/blob/main/LiveStream/group_live_stream.gif)
 
 ## Syncing Loader <a href=""></a>
 ![Syncing Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/synced.gif)

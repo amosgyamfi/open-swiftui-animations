@@ -44,6 +44,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## Empty Chat Animation <a href="#">Gist</a>
 ![Empty Chat Animation](https://github.com/GetStream/stream-swiftui-animations/blob/main/ChatMessaging/ChannelListEmptyAnimations.gif)
 
+## SwiftUI Path Trimming Animation for Custom Paths <a href="https://gist.github.com/amosgyamfi/f0300d0cf32e88177563299de86152b3#file-pathtrimminganimation-swift">Gist</a>
+![SwiftUI Path Trimming Animation for Custom Paths](https://github.com/GetStream/stream-swiftui-animations/blob/main/ChatMessaging/drawAnimatePath.gif)
+
 ## Logo Animation <a href="https://github.com/GetStream/stream-swiftui-animations">Gist</a>
 ![Logo Animation](https://github.com/GetStream/stream-swiftui-animations/blob/main/LaunchScreen/launchScren.gif)
 

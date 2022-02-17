@@ -35,6 +35,15 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 *   [Ronnie Pitman](ronnie.pitman@gmail.com)
 *   https://twitter.com/IslamSharabash
 
+## SwiftUI: Heart Rate Measuring Animation <a href="https://gist.github.com/amosgyamfi/2726ee16ec385a33e43b66d261aa69ea">Gist</a>
+![Heart Rate Measuring ](https://github.com/GetStream/stream-swiftui-animations/blob/main/Misc/HeartRate.gif)
+
+## SwiftUI Marching Ants Effect <a href="https://gist.github.com/amosgyamfi/df6aa93f6c41b60fc4be70e2fb79985b">Gist</a>
+![SwiftUI Marching Ants Effect ](https://github.com/GetStream/stream-swiftui-animations/blob/main/Misc/StreamLogoMarchingAnts.gif)
+
+## Spring Animation: Transition a menu icon to a close icon <a href="https://gist.github.com/amosgyamfi/df3eeade6979349bb60862b25e46dece#file-hamburgertoclose-swift">Gist</a>
+![SwiftUI Chat Micro-interactions with Spring Animation ](https://github.com/GetStream/stream-swiftui-animations/blob/main/Misc/hamburgerToClose.gif)
+
 ## Messages-like Screen Effects <a href="https://github.com/GetStream/stream-swiftui-animations">SwiftUI Animation Codes</a>
 ![Messages-like Screen Effects ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/allScreenEffects.gif)
 

@@ -1,9 +1,9 @@
-# SwiftUI Animations Gallery
+# SwiftUI Animation Gallery
 
 ## SwiftUI Clone: Duolingo Get Started character animation: <a href=""> Available soon</a>
 ![Duolingo animation ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/AllGIF/duoImproved.gif)
 
-**Welcome!!!. SwiftUI Animations Gallery**. 
+**Welcome!!!. SwiftUI Animation Gallery**. 
 
 Useful and Inspirational SwiftUI Animations for Your Next iOS Project.
 

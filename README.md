@@ -1,6 +1,7 @@
-# SwiftUI Animation Gallery
+# SwiftUI Animations Island
+Inspirational iOS/SwiftUI animations for your next project.
 
-## SwiftUI Clone: Duolingo Get Started character animation: <a href=""> Available soon</a>
+## SwiftUI Clone: Duolingo Get Started character animation: <a href="https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/DuoGetStarted.swift"> Swift file</a>
 ![Duolingo animation ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/AllGIF/duoImproved.gif)
 
 **Welcome!!!. SwiftUI Animation Gallery**. 

@@ -201,18 +201,11 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## **Glowing Ring Loader**
 ![Glowing Ring Loader](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/L/loading.gif)
 
-
-## **Like Reactions**
-![Like Reactions]()
-
 ## **Measuring Heartrate**
-![Measuring Heartrate](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/heartrate.gif)
+![Measuring Heartrate](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/H/heartrate.gif)
 
 ## **Beautiful Breath Animation**
-![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_custom.gif)
-
-## **Wiggle**
-![Wiggle](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/wiggle.gif)
+![Breath Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/B/breath_custom.gif)
 
 ## **iOS 14 3D Parallax Effect**
 ![iOS 14 3D Parallax Effect](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/Parallax%203D/ios_3d_parallax.gif)

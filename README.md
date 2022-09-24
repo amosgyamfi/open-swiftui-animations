@@ -175,35 +175,35 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ![Marching Ants Effect](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/matching_ants.gif)
 
 ## **SwiftUI Facebook Live Comments Animation**
-![SwiftUI Facebook Live Comments Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/facebook_live_comments.gif)
+![SwiftUI Facebook Live Comments Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/F/facebook_live_comments.gif)
 
 ## **Breathing Animation for Relaxation: <a href="https://www.skillshare.com/classes/SwiftUI-Create-Breath-Animation-for-Relaxation/237326495">Learn</a>**
-![Breathing Animation for Relaxation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/J/just_breathe.gif)
+![Breathing Animation for Relaxation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/J/just_breathe.gif)
 
 ## **360 Background Animation**
-![360 Background Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/360_background_animation.gif)
+![360 Background Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/B/360_background_animation.gif)
 
 ## **Swinging: Onboarding Animation**
-![Swinging: Onboarding Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swinging_relaxing_animation.gif)
+![Swinging: Onboarding Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/S/swinging_relaxing_animation.gif)
 
 ## **Dynamic iPhone Lock Screen Animation**
-![Dynamic iPhone Lock Screen Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/iOS_LockScreen_Animation.gif)
+![Dynamic iPhone Lock Screen Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/L/iOS_LockScreen_Animation.gif)
 
 ## **Hue Rotation Animation: Gradient**
-![Hue Rotation: Gradient](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/hueRotationAnimation.gif)
+![Hue Rotation: Gradient](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/H/hueRotationAnimation.gif)
 
 ## **Audio/Sound Signals**
-![Audio/Sound Signals](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/sound_signals.gif)
+![Audio/Sound Signals](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/S/sound_signals.gif)
 
 ## **Calling Animation**
-![Calling Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/swiftUI_calling_animation.gif)
+![Calling Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/C/swiftUI_calling_animation.gif)
 
 ## **Glowing Ring Loader**
-![Glowing Ring Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/loading.gif)
+![Glowing Ring Loader](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/L/loading.gif)
 
 
 ## **Like Reactions**
-![Like Reactions](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/like_reactions.gif)
+![Like Reactions]()
 
 ## **Measuring Heartrate**
 ![Measuring Heartrate](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/H/heartrate.gif)
@@ -248,7 +248,7 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 
 ## **Breath Animation in the Calm App**
 
-![Breath Animation in the Calm App](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/breath_calm_app.gif)
+![Breath Animation in the Calm App](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/B/breath_calm_app.gif)
 
 ## **Audio Levels**
 

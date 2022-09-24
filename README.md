@@ -94,64 +94,64 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ![Crafting Easings for Add Flavor to Motion](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/E/crafting_easings.gif)
 
 ## Copying File SwiftUI Animation <a href="#">Gist</a>
-![Copying File SwiftUI Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/copying_files.gif)
+![Copying File SwiftUI Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/C/copying_files.gif)
 
 ## Emit Fireworks in all directions <a href="#">Gist</a>
-![SwiftUI Fireworks Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/E/emit_fireworks_in_all_directions.gif)
+![SwiftUI Fireworks Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/E/emit_fireworks_in_all_directions.gif)
 
 ## iOS Shimmer Animation/Effect 
-![iOS Shimmer Animation/Effect](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/ios_shimmer_effect.gif)
+![iOS Shimmer Animation/Effect](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/I/ios_shimmer_effect.gif)
 
 ## SwiftUI Fireworks Animation <a href="#">Gist</a>
-![SwiftUI Fireworks Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/fireworks.gif)
+![SwiftUI Fireworks Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/F/fireworks.gif)
 
 ## Weather Notification Animation <a href="#">Gist</a>
-![Weather Notification Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/weather_notification.gif)
+![Weather Notification Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/W/weather_notification.gif)
 
 ## Upload Button Animation <a href="https://gist.github.com/amosgyamfi/24f26e44243fe75cf5cb3adbdacb1ce2#file-upload_button_animation-swift">Gist</a>
-![Upload Button Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/U/upload_animation.gif)
+![Upload Button Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/U/upload_animation.gif)
 
 ## Breathe Animation with Hard Light, Difference and Exclusion blend modes <a href="#">Gist</a>
-![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/B/blendmodes.gif)
+![Breath Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/B/blendmodes.gif)
 
 ## **SwiftUI Animation: MS Teams-Style Calling Animation <a href="#">Gist</a>**
-![MS Teams-Style Calling Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/MS_Teams-Style_calling_animation.gif)
+![MS Teams-Style Calling Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/M/MS_Teams-Style_calling_animation.gif)
 
 ## **SwiftUI Animation: Incoming Call <a href="https://gist.github.com/amosgyamfi/d1e823ba9fdf1f22834c842d78e862de">Gist</a>**
-![SwiftUI Animation: Incoming Call](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/incoming_call_animation.gif)
+![SwiftUI Animation: Incoming Call](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/I/incoming_call_animation.gif)
 
 ## **SwiftUI Twitter Like Animation <a href="https://gist.github.com/amosgyamfi/d1e823ba9fdf1f22834c842d78e862de">Gist</a>**
-![Twitter Like Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/T/twitter-like.gif)
+![Twitter Like Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/T/twitter-like.gif)
 
 ## **SwiftUI Proceed with TouchID Animation <a href="https://gist.github.com/amosgyamfi/fb8785f713a79ee00a0f887600e57671#file-proceed_with_touchid-swift">Gist</a>**
-![SwiftUI Proceed with TouchID Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/P/proceed_with_touchID.gif)
+![SwiftUI Proceed with TouchID Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/P/proceed_with_touchID.gif)
 
 ## **Login with FaceID Animation <a href="https://gist.github.com/amosgyamfi/5a610952bb3eb6e5ee36c13a654881b5">Gist</a>**
-![Login with FaceID Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/faceID.gif)
+![Login with FaceID Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/F/faceID.gif)
 
 ## **SwiftUI Kayak Animation: https://www.buymeacoffee.com/8rDfFWY/e/6369**
-![Kayak Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/K/kayak_animation_updated.gif)
+![Kayak Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/K/kayak_animation_updated.gif)
 
 ## **Animated Illustration <a href="#">Gist</a>**
-![Animated Illustration](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/I/animated_illustration.gif)
+![Animated Illustration](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/I/animated_illustration.gif)
 
 ## ** Live Comments <a href="#">Gist</a>**
-![Live Comments](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/live_comments_updated.gif)
+![Live Comments](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/L/live_comments_updated.gif)
 
 ## ** How to Offset-Rotate in SwiftUI (like in CSS) <a href="#">Gist</a>**
-![How to Offset-Rotate](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/O/offset_rotate.gif)
+![How to Offset-Rotate](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/O/offset_rotate.gif)
 
 ## **SwiftUI Arc Menu Animation & Interaction <a href="https://gist.github.com/amosgyamfi/d2d7d5aefa9e7af62dcb9d9fdf97fe81">Gist</a>**
-![Arc Menu Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/arc_menu.gif)
+![Arc Menu Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/A/arc_menu.gif)
 
 ## **SwiftUI Arc Menu Animation & Interaction <a href="#">Gist</a>**
-![Arc Menu Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/F/fab_interaction.gif)
+![Arc Menu Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/F/fab_interaction.gif)
 
 ## **SwiftUI Steps Counter Animation <a href="https://gist.github.com/amosgyamfi/d5d8100fd60026547d18e71613259cc6">Gist</a>**
-![Steps Counting Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/S/swiftUI_steps_counter.gif)
+![Steps Counting Animation](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/S/swiftUI_steps_counter.gif)
 
 ## ** Concentric circles into a circular coil spring <a href="https://gist.github.com/amosgyamfi/1aea62ba2a2899271f66915adcc90e5f#file-concentric_circles-swift">Gist</a>**
-![Concentric circles into a circular coil spring](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/C/coil_motion.gif)
+![Concentric circles into a circular coil spring](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/C/coil_motion.gif)
 
 ## **Audio Recording Animation <a href="https://gist.github.com/amosgyamfi/cdd523f41c4b2f56091f4b3ccae31591">Gist</a>**
 ![Audio Recording Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_metering_animation.gif)

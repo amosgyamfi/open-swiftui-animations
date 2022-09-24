@@ -64,10 +64,10 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ![SwiftUI Chat Micro-interactions with Spring Animation ](https://github.com/GetStream/stream-swiftui-animations/blob/main/Misc/hamburgerToClose.gif)
 
 ## Messages-like Screen Effects <a href="https://github.com/GetStream/stream-swiftui-animations">SwiftUI Animation Codes</a>
-![Messages-like Screen Effects ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/allScreenEffects.gif)
+![Messages-like Screen Effects ](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/M/allScreenEffects.gif)
 
 ## SwiftUI Chat Micro-interactions with Spring Animation <a href="s">Gist</a>
-![SwiftUI Chat Micro-interactions with Spring Animation ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/MessengerReactionsGestures.gif)
+![SwiftUI Chat Micro-interactions with Spring Animation ](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/M/MessengerReactionsGestures.gif)
 
 ## Empty Chat Animation <a href="#">Gist</a>
 ![Empty Chat Animation](https://github.com/GetStream/stream-swiftui-animations/blob/main/ChatMessaging/ChannelListEmptyAnimations.gif)

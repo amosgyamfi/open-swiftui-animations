@@ -242,7 +242,7 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ![Audio Levels](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/A/audio_levels.gif)
 
 ## **Downloading Progress**
-![SwiftUI Spinners](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/D/download_progress.gif)
+![SwiftUI Spinners](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/D/download_progress.gif)
 
 ## **SwiftUI Spinners**
 ![SwiftUI Spinners](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllGIF/spinners.gif)
@@ -314,8 +314,6 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 **Rotation Along X, Y and Z**
 ![rotation xyz](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllGIF/how_to_3D_rotate.gif)
 
-**Breath Animation**
-![Breath](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/breath.gif)
 
 **Recording**
 ![recording](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllGIF/recording.gif)

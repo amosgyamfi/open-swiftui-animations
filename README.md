@@ -8,7 +8,9 @@ Inspirational iOS/SwiftUI animations for your next project.
 
 Useful and Inspirational SwiftUI Animations for Your Next iOS Project.
 
-I am also building and maintaining these 3 <a href="https://getstream.io/">getstream.io</a> repositories:
+I am also building and maintaining these 4 <a href="https://getstream.io/">getstream.io</a> repositories:
+
+* Purposeful iOS Animations: https://github.com/GetStream/purposeful-ios-animations
 
 * Spring Animations Cheatsheet for Developers: https://github.com/GetStream/swiftui-spring-animations
 

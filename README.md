@@ -218,41 +218,33 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ![Matched Geometry](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/matched_geometry.gif)
 
 ## **A Summary Notification View into a Detailed View Using Geometry Matching**
-![Notification](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/N/notifications.gif)
+![Notification](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/N/notifications.gif)
 
 ## **Seamless Looping Wavy Circular Loader**
-
-![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/W/wavy_circular_loader.gif)
+![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/W/wavy_circular_loader.gif)
 
 ## **Loading...**
-
 ![Loading...](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/custom_swiftUI_loading.gif)
 
-**Seamless Looping Wavy Circular Loader**
+**Animated illustration**
 ![Seamless Looping Wavy Circular Loader](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/vapor.gif)
 
 **Touch ID Animation**
-
 ![Touch Id](https://user-images.githubusercontent.com/9307959/85188387-b5100100-b2ae-11ea-89c0-7503be34edf0.gif)
 
 ## **Hamburger to Close Animation**
-
 ![Audio Tweet](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/After%20WWDC2020/hamburger-to-close.gif)
 
 ## **Breath Animation in the Calm App**
-
 ![Breath Animation in the Calm App](https://github.com/amosgyamfi/swiftui-animations-island/blob/master/AllFolders/B/breath_calm_app.gif)
 
 ## **Audio Levels**
-
 ![Audio Levels](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/A/audio_levels.gif)
 
 ## **iPhone Clock**
-
 ![iPhone Clock](https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Watch%20Face/iphone_clock.gif)
 
 ## **Downloading Progress**
-
 ![SwiftUI Spinners](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/D/download_progress.gif)
 
 ## **SwiftUI Spinners**

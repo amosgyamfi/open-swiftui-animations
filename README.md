@@ -51,6 +51,9 @@ Meet some outstanding people supporting the SwiftUI Library on GitHub, Buy Me a 
 ## Chat Emojis: <a href="https://gist.github.com/amosgyamfi/1852a73764ccc6790bed18f10057579a"> Swift file</a>
 ![Chat Emojis ](https://github.com/GetStream/swiftui-spring-animations/blob/main/Misc/chatEmojis.gif)
 
+## Transition a hamburger menu to a back icon <a href="https://gist.github.com/amosgyamfi/71546754e7b04a152bbe57ec0708b338#file-hamburgertobackicontransition-swift"> Swift file</a>
+![ Transition a hamburger menu to a back icon ](https://github.com/GetStream/swiftui-spring-animations/blob/main/Misc/hamburgerToBack.gif)
+
 ## Draggable Menu ( <a href="https://www.hackingwithswift.com/books/ios-swiftui/customizing-animations-in-swiftui"> Inapired by Hackingwithswift</a>):  <a href="https://gist.github.com/amosgyamfi/37bf602c0fd145e3f5a8e6384dd5f796"> Swift file</a>
 ![Draggable Menu ](https://github.com/GetStream/swiftui-spring-animations/blob/main/Misc/draggableMenu.gif)
 

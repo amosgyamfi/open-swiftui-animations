@@ -1,9 +1,13 @@
 # Open SwiftUI Animations 
 Inspirational iOS/SwiftUI animations for your next project.
 
-| Preview | SwiftUIAnimation.swift |
-|--------|-------------------------|
-| ![SwiftUI Christmas tree](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/xmasTree-swiftui.gif) | ```import SwiftUI
+## SwiftUI Christmas tree:
+![Realistic Chain ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/xmasTree.gif)
+
+```swift
+//  SwiftUIXmasTree2.swift
+import SwiftUI
+
 struct SwiftUIXmasTree2: View {
     
     @State private var isSpinning = false
@@ -226,8 +230,7 @@ struct SwiftUIXmasTree2: View {
         }
     }
 }
-``` |
-
+```
 
 
 ## SwiftUI Clone: Duolingo Get Started character animation: <a href="https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/DuoGetStarted.swift"> Swift file</a>

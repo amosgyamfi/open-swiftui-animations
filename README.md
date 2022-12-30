@@ -4,7 +4,6 @@ Inspirational iOS/SwiftUI animations for your next project.
 | Preview | SwiftUIAnimation.swift |
 |--------|-------------------------|
 | ![SwiftUI Christmas tree](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/xmasTree-swiftui.gif) | ```import SwiftUI
-
 struct SwiftUIXmasTree2: View {
     
     @State private var isSpinning = false
@@ -227,7 +226,6 @@ struct SwiftUIXmasTree2: View {
         }
     }
 }
-
 ``` |
 
 

@@ -19,8 +19,8 @@ struct SwiftUIXmasTree2: View {
                 .foregroundStyle(EllipticalGradient(
                     colors:[Color.red, Color.green],
                     center: .center,
-                    startRadiusFraction: /*@START_MENU_TOKEN@*/0.0/*@END_MENU_TOKEN@*/,
-                    endRadiusFraction: /*@START_MENU_TOKEN@*/0.5/*@END_MENU_TOKEN@*/))
+                    startRadiusFraction: 0.0,
+                    endRadiusFraction: 0.5))
                 .hueRotation(.degrees(isSpinning ? 0 : 340))
                 .animation(.linear(duration: 1).repeatForever(autoreverses: false).delay(0.2), value: isSpinning)
             

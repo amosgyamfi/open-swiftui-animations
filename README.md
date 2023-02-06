@@ -7,6 +7,15 @@ Inspirational iOS/SwiftUI animations for your next project.
 ## SwiftUI Clone: Duolingo Get Started character animation: <a href="https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/DuoGetStarted.swift"> Swift file</a>
 ![Duolingo animation ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/AllGIF/duoImproved.gif)
 
+## Improved Twitter Like Animation: <a href="https://gist.github.com/amosgyamfi/58d6489c2871aa94fa60404622957591"> Swift file</a>
+![Twitter Like ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/StrokeBoaderNormalSpeed.gif)
+
+## Stroke Border Animation Simulation: <a href="https://gist.github.com/amosgyamfi/58d6489c2871aa94fa60404622957591"> Swift file</a>
+![Twitter Like ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/StrokeBorderSlowedSpeed.gif)
+
+## Apple Music Play/Pause Button Clone: <a href="https://gist.github.com/amosgyamfi/6928737c432729ef60d51fb5b729832c#file-fluidmusicbutons-swift"> Swift file</a>
+![Apple Music Play/Pause Button Clone ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/MusicPlayPause.gif)
+
 **Welcome!!!. SwiftUI Animation Gallery**. 
 
 Useful and Inspirational SwiftUI Animations for Your Next iOS Project.

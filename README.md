@@ -10,6 +10,9 @@ Inspirational iOS/SwiftUI animations for your next project.
 ## Improved Twitter Like Animation: <a href="https://gist.github.com/amosgyamfi/58d6489c2871aa94fa60404622957591"> Swift file</a>
 ![Twitter Like ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/StrokeBoaderNormalSpeed.gif)
 
+## SwiftUI Emoji Reaction for Live Events: <a href="#"> Swift file (added later)</a>
+![SwiftUI Emoji Reaction for Live Events ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/emojiReactions.gif)
+
 ## Stroke Border Animation Simulation: <a href="https://gist.github.com/amosgyamfi/58d6489c2871aa94fa60404622957591"> Swift file</a>
 ![Twitter Like ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/StrokeBorderSlowedSpeed.gif)
 

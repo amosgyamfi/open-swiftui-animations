@@ -4,8 +4,11 @@ Inspirational iOS/SwiftUI animations for your next project.
 ## SwiftUI Christmas tree  <a href="https://gist.github.com/amosgyamfi/c0137cf1a90c9730251222c7b11b0855"> Swift file</a>
 ![SwiftUI Christmas tree ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/xmasTree.gif)
 
-## SwiftUI Clone: Duolingo Get Started character animation: <a href="https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/DuoGetStarted.swift"> Swift file</a>
+## SwiftUI Clone: Duolingo Get Started character animation: <a href="#"> Swift file</a>
 ![Duolingo animation ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/AllGIF/duoImproved.gif)
+
+## Animated SVG Illustration: <a href="https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/DuoGetStarted.swift"> Swift file</a>
+![Animated SVG Illustration ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/animatedIllustration.gif)
 
 ## Improved Twitter Like Animation: <a href="https://gist.github.com/amosgyamfi/58d6489c2871aa94fa60404622957591"> Swift file</a>
 ![Twitter Like ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/StrokeBoaderNormalSpeed.gif)

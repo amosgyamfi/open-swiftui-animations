@@ -4,6 +4,21 @@ Inspirational iOS/SwiftUI animations for your next project.
 ## SwiftUI Christmas tree  <a href="https://gist.github.com/amosgyamfi/c0137cf1a90c9730251222c7b11b0855"> Swift file</a>
 ![SwiftUI Christmas tree ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/xmasTree.gif)
 
+**SwiftUI Live Streaming Animation**: [Swift file]()
+![SwiftUI Live Streaming Animation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/livestreamCharacter.gif)
+
+**Push-to-talk: Slide animation using scale, 3D rotation, opacity and hue rotation**: [Swift file](#)
+![Slide animation using scale, 3D rotation, opacity and hue rotation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWith3DRotation.gif)
+---
+
+**Slide animation using scale, opacity and hue rotation, offset and spring**: [Swift file](#)
+![Slide animation using scale, opacity and hue rotation, offset and spring](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithSpring.gif)
+---
+
+**Slide animation using scale, opacity and offset**: [Swift file](#)
+![Slide animation using scale](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithScale.gif)
+---
+
 ## SwiftUI Clone: Duolingo Get Started character animation: <a href="#"> Swift file</a>
 ![Duolingo animation ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/AllGIF/duoImproved.gif)
 

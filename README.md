@@ -1,5 +1,8 @@
 # Open SwiftUI Animations 
-Inspirational iOS/SwiftUI animations for your next project.
+Inspirational iOS/SwiftUI animations for your next projects. The new Keyframe Animation, Phase Animation, and Universal Symbol Animations are all in one place. 
+
+## Try the new Keyframe Animation in SwiftUI  <a href="https://gist.github.com/amosgyamfi/24e6cd92e7c23f8fd4d1ebd80dff09d9#file-reactionswithkeyframes-swift"> Swift file</a>
+![Try the new Keyframe Animation in SwiftUI ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/keyFrames.gif)
 
 ## SwiftUI Christmas tree  <a href="https://gist.github.com/amosgyamfi/c0137cf1a90c9730251222c7b11b0855"> Swift file</a>
 ![SwiftUI Christmas tree ](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/xmasTree.gif)

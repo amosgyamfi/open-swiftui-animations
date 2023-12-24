@@ -23,6 +23,10 @@ Checkout the Xcode project for examples of the new Phase Animator, Keyframe Anim
 ![SwiftUIChristmasTree.swift](GIF_Previews/SwiftUIChristmasTree.gif)
 ---
 
+**Expressive Reactions**: [SwiftUIChristmasTree.swift]()
+![SwiftUIChristmasTree.swift](GIF_Previews/ExpressiveReactions.gif)
+---
+
 
 
 

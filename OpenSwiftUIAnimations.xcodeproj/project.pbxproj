@@ -13,6 +13,25 @@
 		4B20C4A72ADCD79D009F337A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B20C4A62ADCD79D009F337A /* Preview Assets.xcassets */; };
 		4B20C4B22ADCE2BA009F337A /* MickeyMouseAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B20C4B12ADCE2BA009F337A /* MickeyMouseAnimation.swift */; };
 		4BDEB7CC2B2222D700BD22BD /* AnimationCompletionCriteria.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDEB7CB2B2222D700BD22BD /* AnimationCompletionCriteria.swift */; };
+		4BE691B22B3895CF0047BD08 /* SwiftUIXmasTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691B12B3895CF0047BD08 /* SwiftUIXmasTree.swift */; };
+		4BE691B42B3895DB0047BD08 /* XmasSurpriseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691B32B3895DB0047BD08 /* XmasSurpriseView.swift */; };
+		4BE691B62B3895E40047BD08 /* PresentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691B52B3895E40047BD08 /* PresentView.swift */; };
+		4BE691B82B3895FD0047BD08 /* GiftWithRibbonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691B72B3895FD0047BD08 /* GiftWithRibbonView.swift */; };
+		4BE691BA2B3896050047BD08 /* HeartWithRibbonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691B92B3896050047BD08 /* HeartWithRibbonView.swift */; };
+		4BE691BC2B38960D0047BD08 /* MrsClausView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691BB2B38960D0047BD08 /* MrsClausView.swift */; };
+		4BE691BE2B3896150047BD08 /* FatherChristmasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691BD2B3896150047BD08 /* FatherChristmasView.swift */; };
+		4BE691C02B38961D0047BD08 /* MxClausView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691BF2B38961D0047BD08 /* MxClausView.swift */; };
+		4BE691C22B3896270047BD08 /* CompositorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691C12B3896270047BD08 /* CompositorView.swift */; };
+		4BE691C52B3896DF0047BD08 /* EmotionalReactions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691C42B3896DF0047BD08 /* EmotionalReactions.swift */; };
+		4BE691C72B3896E90047BD08 /* IncomingMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691C62B3896E90047BD08 /* IncomingMessageView.swift */; };
+		4BE691CA2B3897F30047BD08 /* XLike1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691C92B3897F30047BD08 /* XLike1.swift */; };
+		4BE691CC2B3898090047BD08 /* XLike2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691CB2B3898090047BD08 /* XLike2.swift */; };
+		4BE691CE2B3898160047BD08 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691CD2B3898160047BD08 /* SplashView.swift */; };
+		4BE691D12B3899080047BD08 /* JumpAndFallEmojis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691D02B3899080047BD08 /* JumpAndFallEmojis.swift */; };
+		4BE691D32B3899360047BD08 /* JumpAndFallWithPhase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691D22B3899360047BD08 /* JumpAndFallWithPhase.swift */; };
+		4BE691D52B3899400047BD08 /* JumpAndFallWithKeyframes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691D42B3899400047BD08 /* JumpAndFallWithKeyframes.swift */; };
+		4BE691D82B3899A60047BD08 /* ScaleUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691D72B3899A60047BD08 /* ScaleUp.swift */; };
+		4BE691DA2B3899BE0047BD08 /* ReactionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691D92B3899BE0047BD08 /* ReactionsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +42,25 @@
 		4B20C4A62ADCD79D009F337A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4B20C4B12ADCE2BA009F337A /* MickeyMouseAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MickeyMouseAnimation.swift; sourceTree = "<group>"; };
 		4BDEB7CB2B2222D700BD22BD /* AnimationCompletionCriteria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCompletionCriteria.swift; sourceTree = "<group>"; };
+		4BE691B12B3895CF0047BD08 /* SwiftUIXmasTree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIXmasTree.swift; sourceTree = "<group>"; };
+		4BE691B32B3895DB0047BD08 /* XmasSurpriseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XmasSurpriseView.swift; sourceTree = "<group>"; };
+		4BE691B52B3895E40047BD08 /* PresentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PresentView.swift; sourceTree = "<group>"; };
+		4BE691B72B3895FD0047BD08 /* GiftWithRibbonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GiftWithRibbonView.swift; sourceTree = "<group>"; };
+		4BE691B92B3896050047BD08 /* HeartWithRibbonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeartWithRibbonView.swift; sourceTree = "<group>"; };
+		4BE691BB2B38960D0047BD08 /* MrsClausView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MrsClausView.swift; sourceTree = "<group>"; };
+		4BE691BD2B3896150047BD08 /* FatherChristmasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FatherChristmasView.swift; sourceTree = "<group>"; };
+		4BE691BF2B38961D0047BD08 /* MxClausView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MxClausView.swift; sourceTree = "<group>"; };
+		4BE691C12B3896270047BD08 /* CompositorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompositorView.swift; sourceTree = "<group>"; };
+		4BE691C42B3896DF0047BD08 /* EmotionalReactions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmotionalReactions.swift; sourceTree = "<group>"; };
+		4BE691C62B3896E90047BD08 /* IncomingMessageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IncomingMessageView.swift; sourceTree = "<group>"; };
+		4BE691C92B3897F30047BD08 /* XLike1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XLike1.swift; sourceTree = "<group>"; };
+		4BE691CB2B3898090047BD08 /* XLike2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XLike2.swift; sourceTree = "<group>"; };
+		4BE691CD2B3898160047BD08 /* SplashView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		4BE691D02B3899080047BD08 /* JumpAndFallEmojis.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JumpAndFallEmojis.swift; sourceTree = "<group>"; };
+		4BE691D22B3899360047BD08 /* JumpAndFallWithPhase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JumpAndFallWithPhase.swift; sourceTree = "<group>"; };
+		4BE691D42B3899400047BD08 /* JumpAndFallWithKeyframes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JumpAndFallWithKeyframes.swift; sourceTree = "<group>"; };
+		4BE691D72B3899A60047BD08 /* ScaleUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleUp.swift; sourceTree = "<group>"; };
+		4BE691D92B3899BE0047BD08 /* ReactionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReactionsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +93,8 @@
 		4B20C49E2ADCD798009F337A /* OpenSwiftUIAnimations */ = {
 			isa = PBXGroup;
 			children = (
+				4BE691D62B38997E0047BD08 /* Reactions */,
+				4BE691B02B38958B0047BD08 /* ChristmasTree */,
 				4B20C49F2ADCD799009F337A /* OpenSwiftUIAnimationsApp.swift */,
 				4BDEB7CA2B2222B300BD22BD /* Tutorials */,
 				4B20C4AD2ADCD880009F337A /* AnimatedIllustrations */,
@@ -95,6 +135,63 @@
 				4BDEB7CB2B2222D700BD22BD /* AnimationCompletionCriteria.swift */,
 			);
 			path = Tutorials;
+			sourceTree = "<group>";
+		};
+		4BE691B02B38958B0047BD08 /* ChristmasTree */ = {
+			isa = PBXGroup;
+			children = (
+				4BE691B12B3895CF0047BD08 /* SwiftUIXmasTree.swift */,
+				4BE691B32B3895DB0047BD08 /* XmasSurpriseView.swift */,
+				4BE691B52B3895E40047BD08 /* PresentView.swift */,
+				4BE691B72B3895FD0047BD08 /* GiftWithRibbonView.swift */,
+				4BE691B92B3896050047BD08 /* HeartWithRibbonView.swift */,
+				4BE691BB2B38960D0047BD08 /* MrsClausView.swift */,
+				4BE691BD2B3896150047BD08 /* FatherChristmasView.swift */,
+				4BE691BF2B38961D0047BD08 /* MxClausView.swift */,
+				4BE691C12B3896270047BD08 /* CompositorView.swift */,
+			);
+			path = ChristmasTree;
+			sourceTree = "<group>";
+		};
+		4BE691C32B3896BE0047BD08 /* MessengerReactions */ = {
+			isa = PBXGroup;
+			children = (
+				4BE691C42B3896DF0047BD08 /* EmotionalReactions.swift */,
+				4BE691C62B3896E90047BD08 /* IncomingMessageView.swift */,
+			);
+			path = MessengerReactions;
+			sourceTree = "<group>";
+		};
+		4BE691C82B3897CA0047BD08 /* XLike */ = {
+			isa = PBXGroup;
+			children = (
+				4BE691C92B3897F30047BD08 /* XLike1.swift */,
+				4BE691CB2B3898090047BD08 /* XLike2.swift */,
+				4BE691CD2B3898160047BD08 /* SplashView.swift */,
+			);
+			path = XLike;
+			sourceTree = "<group>";
+		};
+		4BE691CF2B3898EB0047BD08 /* ReactionJumpAndFall */ = {
+			isa = PBXGroup;
+			children = (
+				4BE691D02B3899080047BD08 /* JumpAndFallEmojis.swift */,
+				4BE691D42B3899400047BD08 /* JumpAndFallWithKeyframes.swift */,
+				4BE691D22B3899360047BD08 /* JumpAndFallWithPhase.swift */,
+			);
+			path = ReactionJumpAndFall;
+			sourceTree = "<group>";
+		};
+		4BE691D62B38997E0047BD08 /* Reactions */ = {
+			isa = PBXGroup;
+			children = (
+				4BE691D72B3899A60047BD08 /* ScaleUp.swift */,
+				4BE691D92B3899BE0047BD08 /* ReactionsView.swift */,
+				4BE691C32B3896BE0047BD08 /* MessengerReactions */,
+				4BE691C82B3897CA0047BD08 /* XLike */,
+				4BE691CF2B3898EB0047BD08 /* ReactionJumpAndFall */,
+			);
+			path = Reactions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -167,10 +264,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BE691B82B3895FD0047BD08 /* GiftWithRibbonView.swift in Sources */,
+				4BE691CC2B3898090047BD08 /* XLike2.swift in Sources */,
+				4BE691BE2B3896150047BD08 /* FatherChristmasView.swift in Sources */,
 				4B20C4A22ADCD799009F337A /* AlertNotificationAnimation.swift in Sources */,
+				4BE691D52B3899400047BD08 /* JumpAndFallWithKeyframes.swift in Sources */,
+				4BE691D12B3899080047BD08 /* JumpAndFallEmojis.swift in Sources */,
+				4BE691B22B3895CF0047BD08 /* SwiftUIXmasTree.swift in Sources */,
+				4BE691C22B3896270047BD08 /* CompositorView.swift in Sources */,
+				4BE691CA2B3897F30047BD08 /* XLike1.swift in Sources */,
+				4BE691D32B3899360047BD08 /* JumpAndFallWithPhase.swift in Sources */,
+				4BE691C52B3896DF0047BD08 /* EmotionalReactions.swift in Sources */,
+				4BE691DA2B3899BE0047BD08 /* ReactionsView.swift in Sources */,
+				4BE691C02B38961D0047BD08 /* MxClausView.swift in Sources */,
+				4BE691BA2B3896050047BD08 /* HeartWithRibbonView.swift in Sources */,
+				4BE691BC2B38960D0047BD08 /* MrsClausView.swift in Sources */,
+				4BE691B42B3895DB0047BD08 /* XmasSurpriseView.swift in Sources */,
+				4BE691D82B3899A60047BD08 /* ScaleUp.swift in Sources */,
 				4B20C4B22ADCE2BA009F337A /* MickeyMouseAnimation.swift in Sources */,
+				4BE691C72B3896E90047BD08 /* IncomingMessageView.swift in Sources */,
 				4B20C4A02ADCD799009F337A /* OpenSwiftUIAnimationsApp.swift in Sources */,
+				4BE691B62B3895E40047BD08 /* PresentView.swift in Sources */,
 				4BDEB7CC2B2222D700BD22BD /* AnimationCompletionCriteria.swift in Sources */,
+				4BE691CE2B3898160047BD08 /* SplashView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

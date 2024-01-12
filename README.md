@@ -1,7 +1,7 @@
 ## Open SwiftUI Animations
-### Pure SwiftUI animations and inspirations for your next iOS, macOS, visionOS and watchOS projects. Enjoy 😊 
+### Pure SwiftUI animations and inspirations for your next iOS, macOS, visionOS, and watchOS projects. Enjoy 😊 
 
-Checkout the Xcode project for examples of the new Phase Animator, Keyframe Animation, and Spring Animations for iOS 17 and beyond. Something missing or found an intersting iOS animation fo add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) 
+Check out the Xcode project for examples of the new Phase Animator, Symbol Effects, Keyframe Animation, and Spring Animations for iOS 17 and beyond. Is something missing, or found an interesting iOS animation to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) 
 
 **Reactions with Springs**: [EmotionalReactions.swift](OpenSwiftUIAnimations/Reactions/MessengerReactions/EmotionalReactions.swift)
 ![EmotionalReactions.swift](GIF_Previews/emotionalReactions.gif)
@@ -29,6 +29,10 @@ Checkout the Xcode project for examples of the new Phase Animator, Keyframe Anim
 
 **3D Y-Rotation - visionOS**: [Add soon]()
 ![AirPodsMaxAnimation.swift](GIF_Previews/AirPodsMaxAnimation.gif)
+---
+
+**Incoming call animation, symbol effect with variable color and hue rotation**: [IncomingCall.swift](https://gist.github.com/amosgyamfi/26ba8cbecac18202c6f2065836297766#file-incomingcall-swift)
+![AirPodsMaxAnimation.swift](GIF_Previews/incomingCallAnimation.gif)
 ---
 
 

@@ -15,6 +15,14 @@ Check out the Xcode project for examples of the new Phase Animator, Symbol Effec
 ![Expressive Reactions](GIF_Previews/ExpressiveReactions.gif)
 ---
 
+**Content Transition: Smooth Symbols Swapping**: [Add soon]()
+![Content Transition:](GIF_Previews/contentTransition.gif)
+---
+
+**Content Transition, Phase Animator with Springs: Create seamless icon replacement: [Add soon]()
+![Content Transition, Phase Animator](GIF_Previews/contentTransitionWithPhaseAnimator.gif)
+---
+
 **X Like Animation**: [XLike Animation](OpenSwiftUIAnimations/Reactions/XLike)
 ![XLike](GIF_Previews/Xlike.gif)
 ---

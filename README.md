@@ -2,10 +2,14 @@
 ### Pure SwiftUI animations and inspirations for your next iOS, macOS, visionOS, and watchOS projects. Enjoy 😊 
 
 ### Hello intro screeen animation
-![Hello intro screeen animation](Img/helloAnimation.gif)
+![Hello intro screeen animation](GIF_Previews/helloAnimation.gif)
 ---
 
 Check out the Xcode project for examples of the new Phase Animator, Symbol Effects, Keyframe Animation, and Spring Animations for iOS 17 and beyond. Is something missing, or found an interesting iOS animation to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) 
+
+### Vision Pro 3D rotation 
+![Vision Pro 3D rotation](GIF_Previews/3dObjectsInvisionOS.gif)
+---
 
 **Reactions with Springs**: [EmotionalReactions.swift](OpenSwiftUIAnimations/Reactions/MessengerReactions/EmotionalReactions.swift)
 ![EmotionalReactions.swift](GIF_Previews/emotionalReactions.gif)

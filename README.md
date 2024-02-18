@@ -1,8 +1,8 @@
 ## Open SwiftUI Animations
 ### Pure SwiftUI animations and inspirations for your next iOS, macOS, visionOS, and watchOS projects. Enjoy 😊 
 
-### Hello intro screeen animation
-![Hello intro screeen animation](GIF_Previews/helloAnimation.gif)
+### Hello lettering animation
+![Hello lettering animation](GIF_Previews/AppleHelloLetteringAnimation.gif)
 ---
 
 Check out the Xcode project for examples of the new Phase Animator, Symbol Effects, Keyframe Animation, and Spring Animations for iOS 17 and beyond. Is something missing, or found an interesting iOS animation to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) 

@@ -11,6 +11,10 @@ Check out the Xcode project for examples of the new Phase Animator, Symbol Effec
 ![Vision Pro 3D rotation](GIF_Previews/3dObjectsInvisionOS.gif)
 ---
 
+### Vision Pro 3D rotation 
+![Vision Pro 3D rotation](GIF_Previews/characterFlip.gif)
+---
+
 **Reactions with Springs**: [EmotionalReactions.swift](OpenSwiftUIAnimations/Reactions/MessengerReactions/EmotionalReactions.swift)
 ![EmotionalReactions.swift](GIF_Previews/emotionalReactions.gif)
 ---

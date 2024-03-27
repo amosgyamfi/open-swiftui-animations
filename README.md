@@ -7,12 +7,12 @@
 
 Check out the Xcode project for examples of the new Phase Animator, Symbol Effects, Keyframe Animation, and Spring Animations for iOS 17 and beyond. Is something missing, or found an interesting iOS animation to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) 
 
-### Vision Pro 3D rotation 
-![Vision Pro 3D rotation](GIF_Previews/3dObjectsInvisionOS.gif)
----
-
 ### Hello WWDC24 
 ![WWDC24](GIF_Previews/wwdc24.gif)
+---
+
+### Vision Pro 3D rotation 
+![Vision Pro 3D rotation](GIF_Previews/3dObjectsInvisionOS.gif)
 ---
 
 ### 3D Rotate String Characters 

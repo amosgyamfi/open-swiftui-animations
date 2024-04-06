@@ -1,11 +1,17 @@
 ## Open SwiftUI Animations
-### Pure SwiftUI animations and inspirations for your next iOS, macOS, visionOS, and watchOS projects. Enjoy 😊 
+### Pure SwiftUI animations and inspirations for your next iOS, macOS, visionOS, and watchOS projects. Enjoy 😊. 
+
+SwiftUI animation is compelling and superb. With minimal effort, you can add incredible effects and beautiful animations to your apps. Why use an animation library instead of creating these tiny effects yourself? Get inspiration from here and start building your SwiftUI animations today. 
+
+### Hue Rotation effect with Phase Animator 
+![Hue rotation](GIF_Previews/wwdc24Invite.gif)
+---
 
 ### Hello WWDC24 
 ![WWDC24](GIF_Previews/wwdc24.gif)
 ---
 
-Check out the Xcode project for examples of the new Phase Animator, Symbol Effects, Keyframe Animation, and Spring Animations for iOS 17 and beyond. Is something missing, or found an interesting iOS animation to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) 
+Check out the Xcode project for examples of the new Phase Animator, Symbol Effects, Keyframe Animation, and Spring Animations for iOS 17 and beyond. Is something missing, or did you find an interesting iOS animation to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) 
 
 ### Hello lettering animation
 ![Hello lettering animation](GIF_Previews/AppleHelloLetteringAnimation.gif)

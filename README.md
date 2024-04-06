@@ -13,8 +13,8 @@ SwiftUI animation is compelling and superb. With minimal effort, you can add inc
 
 Check out the Xcode project for examples of the new Phase Animator, Symbol Effects, Keyframe Animation, and Spring Animations for iOS 17 and beyond. Is something missing, or did you find an interesting iOS animation to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) 
 
-### Hello lettering animation
-![Hello lettering animation](GIF_Previews/AppleHelloLetteringAnimation.gif)
+### How Things Move: Constant speed, acceleration, deceleration
+![How Things Move](GIF_Previews/linearEasedAnimations.gif)
 ---
 
 ### Vision Pro 3D rotation 

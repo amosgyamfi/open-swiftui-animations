@@ -22,7 +22,11 @@ Check out the Xcode project for examples of the new Phase Animator, Symbol Effec
 ---
 
 ### 3D Rotate String Characters 
-![Vision Pro 3D rotation](GIF_Previews/characterFlip.gif)
+![3D Rotate String Characters ](GIF_Previews/characterFlip.gif)
+---
+
+### Flip String Characters in XYZ
+![Flip String Characters in XYZ](GIF_Previews/flipCharactersXYZ.gif)
 ---
 
 **Reactions with Springs**: [EmotionalReactions.swift](OpenSwiftUIAnimations/Reactions/MessengerReactions/EmotionalReactions.swift)

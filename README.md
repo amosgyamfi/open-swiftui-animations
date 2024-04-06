@@ -1,7 +1,7 @@
 ## Open SwiftUI Animations
 ### Pure SwiftUI animations and inspirations for your next iOS, macOS, visionOS, and watchOS projects. Enjoy 😊. 
 
-SwiftUI animation is compelling and superb. With minimal effort, you can add incredible effects and beautiful animations to your apps. Why use an animation library instead of creating these tiny effects yourself? Get inspiration from here and start building your SwiftUI animations today. 
+SwiftUI animation is compelling and superb. With minimal effort, you can add incredible effects and beautiful animations to your apps. **Why use an animation library instead of creating these tiny effects yourself?** Get inspiration from here and start building your SwiftUI animations today. 
 
 ### Hue Rotation effect with Phase Animator 
 ![Hue rotation](GIF_Previews/wwdc24Invite.gif)

@@ -9,7 +9,9 @@ import SwiftUI
 struct OpenSwiftUIAnimationsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //StackedSpring()
+            //EmitterParticles()
+            WWDC24View1()
         }
     }
 }

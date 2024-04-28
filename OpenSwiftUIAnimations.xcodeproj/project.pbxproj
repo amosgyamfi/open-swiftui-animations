@@ -33,6 +33,16 @@
 		4BE691D82B3899A60047BD08 /* ScaleUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691D72B3899A60047BD08 /* ScaleUp.swift */; };
 		4BE691DA2B3899BE0047BD08 /* ReactionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE691D92B3899BE0047BD08 /* ReactionsView.swift */; };
 		844D0CFE2B64CCE00068E175 /* StackedSpring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844D0CFD2B64CCE00068E175 /* StackedSpring.swift */; };
+		8457B9072BDDE7D10097A244 /* SunAndWind.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B9062BDDE7D10097A244 /* SunAndWind.swift */; };
+		8457B9092BDDE7EA0097A244 /* MeasuringHeartRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B9082BDDE7EA0097A244 /* MeasuringHeartRate.swift */; };
+		8457B90B2BDDE7F60097A244 /* StreamLogoMarchingAnts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B90A2BDDE7F60097A244 /* StreamLogoMarchingAnts.swift */; };
+		8457B90E2BDDE8410097A244 /* EaseInExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B90D2BDDE8410097A244 /* EaseInExample.swift */; };
+		8457B9112BDDE86C0097A244 /* EaseOutExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B9102BDDE86C0097A244 /* EaseOutExample.swift */; };
+		8457B9142BDDE8F90097A244 /* EaseInOutExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B9132BDDE8F90097A244 /* EaseInOutExample.swift */; };
+		8457B9172BDE3D010097A244 /* DuoGetStarted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B9162BDE3D010097A244 /* DuoGetStarted.swift */; };
+		8457B9192BDE3D0F0097A244 /* SpringyDuoGetStarted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B9182BDE3D0F0097A244 /* SpringyDuoGetStarted.swift */; };
+		8457B91B2BDE3D160097A244 /* MusicNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B91A2BDE3D160097A244 /* MusicNotes.swift */; };
+		8457B91D2BDE3D1E0097A244 /* DuoLoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457B91C2BDE3D1E0097A244 /* DuoLoading.swift */; };
 		845DAA392BB49FFF00B1F292 /* WWDC24View1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845DAA382BB49FFF00B1F292 /* WWDC24View1.swift */; };
 		8480EFA42BA89924000B2EC4 /* EmitterParticles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480EFA32BA89924000B2EC4 /* EmitterParticles.swift */; };
 		849BCD5F2BA5FCB200CE7E10 /* DefaultAnimationWithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849BCD5E2BA5FCB200CE7E10 /* DefaultAnimationWithAnimation.swift */; };
@@ -71,6 +81,16 @@
 		4BE691D72B3899A60047BD08 /* ScaleUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleUp.swift; sourceTree = "<group>"; };
 		4BE691D92B3899BE0047BD08 /* ReactionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReactionsView.swift; sourceTree = "<group>"; };
 		844D0CFD2B64CCE00068E175 /* StackedSpring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackedSpring.swift; sourceTree = "<group>"; };
+		8457B9062BDDE7D10097A244 /* SunAndWind.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SunAndWind.swift; sourceTree = "<group>"; };
+		8457B9082BDDE7EA0097A244 /* MeasuringHeartRate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeasuringHeartRate.swift; sourceTree = "<group>"; };
+		8457B90A2BDDE7F60097A244 /* StreamLogoMarchingAnts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StreamLogoMarchingAnts.swift; sourceTree = "<group>"; };
+		8457B90D2BDDE8410097A244 /* EaseInExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EaseInExample.swift; sourceTree = "<group>"; };
+		8457B9102BDDE86C0097A244 /* EaseOutExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EaseOutExample.swift; sourceTree = "<group>"; };
+		8457B9132BDDE8F90097A244 /* EaseInOutExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EaseInOutExample.swift; sourceTree = "<group>"; };
+		8457B9162BDE3D010097A244 /* DuoGetStarted.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DuoGetStarted.swift; sourceTree = "<group>"; };
+		8457B9182BDE3D0F0097A244 /* SpringyDuoGetStarted.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpringyDuoGetStarted.swift; sourceTree = "<group>"; };
+		8457B91A2BDE3D160097A244 /* MusicNotes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicNotes.swift; sourceTree = "<group>"; };
+		8457B91C2BDE3D1E0097A244 /* DuoLoading.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DuoLoading.swift; sourceTree = "<group>"; };
 		845DAA382BB49FFF00B1F292 /* WWDC24View1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WWDC24View1.swift; sourceTree = "<group>"; };
 		8480EFA32BA89924000B2EC4 /* EmitterParticles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmitterParticles.swift; sourceTree = "<group>"; };
 		849BCD5E2BA5FCB200CE7E10 /* DefaultAnimationWithAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultAnimationWithAnimation.swift; sourceTree = "<group>"; };
@@ -150,6 +170,7 @@
 		4BDEB7CA2B2222B300BD22BD /* Tutorials */ = {
 			isa = PBXGroup;
 			children = (
+				8457B9152BDE3CE40097A244 /* DuolingoAnimations */,
 				849BCD5D2BA5FC6F00CE7E10 /* BasicConcepts */,
 				844D0CFD2B64CCE00068E175 /* StackedSpring.swift */,
 				8480EFA32BA89924000B2EC4 /* EmitterParticles.swift */,
@@ -216,15 +237,72 @@
 			path = Reactions;
 			sourceTree = "<group>";
 		};
+		8457B9042BDDE7B00097A244 /* LinearEasedAnimations */ = {
+			isa = PBXGroup;
+			children = (
+				84FEA4112BC12CF5001036A1 /* LinearAndEasedAnimations.swift */,
+				8457B9052BDDE7C30097A244 /* Linear */,
+				8457B90C2BDDE8300097A244 /* EaseIn */,
+				8457B90F2BDDE84E0097A244 /* EaseOut */,
+				8457B9122BDDE8B60097A244 /* EaseInOut */,
+			);
+			path = LinearEasedAnimations;
+			sourceTree = "<group>";
+		};
+		8457B9052BDDE7C30097A244 /* Linear */ = {
+			isa = PBXGroup;
+			children = (
+				8457B90A2BDDE7F60097A244 /* StreamLogoMarchingAnts.swift */,
+				8457B9062BDDE7D10097A244 /* SunAndWind.swift */,
+				8457B9082BDDE7EA0097A244 /* MeasuringHeartRate.swift */,
+			);
+			path = Linear;
+			sourceTree = "<group>";
+		};
+		8457B90C2BDDE8300097A244 /* EaseIn */ = {
+			isa = PBXGroup;
+			children = (
+				8457B90D2BDDE8410097A244 /* EaseInExample.swift */,
+			);
+			path = EaseIn;
+			sourceTree = "<group>";
+		};
+		8457B90F2BDDE84E0097A244 /* EaseOut */ = {
+			isa = PBXGroup;
+			children = (
+				8457B9102BDDE86C0097A244 /* EaseOutExample.swift */,
+			);
+			path = EaseOut;
+			sourceTree = "<group>";
+		};
+		8457B9122BDDE8B60097A244 /* EaseInOut */ = {
+			isa = PBXGroup;
+			children = (
+				8457B9132BDDE8F90097A244 /* EaseInOutExample.swift */,
+			);
+			path = EaseInOut;
+			sourceTree = "<group>";
+		};
+		8457B9152BDE3CE40097A244 /* DuolingoAnimations */ = {
+			isa = PBXGroup;
+			children = (
+				8457B9162BDE3D010097A244 /* DuoGetStarted.swift */,
+				8457B91C2BDE3D1E0097A244 /* DuoLoading.swift */,
+				8457B9182BDE3D0F0097A244 /* SpringyDuoGetStarted.swift */,
+				8457B91A2BDE3D160097A244 /* MusicNotes.swift */,
+			);
+			path = DuolingoAnimations;
+			sourceTree = "<group>";
+		};
 		849BCD5D2BA5FC6F00CE7E10 /* BasicConcepts */ = {
 			isa = PBXGroup;
 			children = (
+				8457B9042BDDE7B00097A244 /* LinearEasedAnimations */,
 				4BDEB7CB2B2222D700BD22BD /* AnimationCompletionCriteria.swift */,
 				849BCD5E2BA5FCB200CE7E10 /* DefaultAnimationWithAnimation.swift */,
 				849BCD602BA5FCE900CE7E10 /* DefaultAnimationAnimationModifier.swift */,
 				849BCD622BA7B68C00CE7E10 /* FlipXYZ.swift */,
 				84FEA4132BC1308E001036A1 /* FlipCharactersXYZ.swift */,
-				84FEA4112BC12CF5001036A1 /* LinearAndEasedAnimations.swift */,
 			);
 			path = BasicConcepts;
 			sourceTree = "<group>";
@@ -299,19 +377,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8457B9092BDDE7EA0097A244 /* MeasuringHeartRate.swift in Sources */,
 				4BE691B82B3895FD0047BD08 /* GiftWithRibbonView.swift in Sources */,
 				4BE691CC2B3898090047BD08 /* XLike2.swift in Sources */,
 				8480EFA42BA89924000B2EC4 /* EmitterParticles.swift in Sources */,
 				849BCD632BA7B68C00CE7E10 /* FlipXYZ.swift in Sources */,
 				4BE691BE2B3896150047BD08 /* FatherChristmasView.swift in Sources */,
+				8457B9072BDDE7D10097A244 /* SunAndWind.swift in Sources */,
 				84FEA4122BC12CF5001036A1 /* LinearAndEasedAnimations.swift in Sources */,
 				4B20C4A22ADCD799009F337A /* AlertNotificationAnimation.swift in Sources */,
 				4BE691D52B3899400047BD08 /* JumpAndFallWithKeyframes.swift in Sources */,
 				84FEA4142BC1308E001036A1 /* FlipCharactersXYZ.swift in Sources */,
+				8457B91B2BDE3D160097A244 /* MusicNotes.swift in Sources */,
 				4BE691D12B3899080047BD08 /* JumpAndFallEmojis.swift in Sources */,
 				4BE691B22B3895CF0047BD08 /* SwiftUIXmasTree.swift in Sources */,
 				4BE691C22B3896270047BD08 /* CompositorView.swift in Sources */,
 				4BE691CA2B3897F30047BD08 /* XLike1.swift in Sources */,
+				8457B90E2BDDE8410097A244 /* EaseInExample.swift in Sources */,
 				84FEA4102BBFF936001036A1 /* WWDC24Invite.swift in Sources */,
 				4BE691D32B3899360047BD08 /* JumpAndFallWithPhase.swift in Sources */,
 				4BE691C52B3896DF0047BD08 /* EmotionalReactions.swift in Sources */,
@@ -319,7 +401,10 @@
 				4BE691C02B38961D0047BD08 /* MxClausView.swift in Sources */,
 				4BE691BA2B3896050047BD08 /* HeartWithRibbonView.swift in Sources */,
 				849BCD612BA5FCE900CE7E10 /* DefaultAnimationAnimationModifier.swift in Sources */,
+				8457B90B2BDDE7F60097A244 /* StreamLogoMarchingAnts.swift in Sources */,
+				8457B9192BDE3D0F0097A244 /* SpringyDuoGetStarted.swift in Sources */,
 				4BE691BC2B38960D0047BD08 /* MrsClausView.swift in Sources */,
+				8457B91D2BDE3D1E0097A244 /* DuoLoading.swift in Sources */,
 				4BE691B42B3895DB0047BD08 /* XmasSurpriseView.swift in Sources */,
 				844D0CFE2B64CCE00068E175 /* StackedSpring.swift in Sources */,
 				4BE691D82B3899A60047BD08 /* ScaleUp.swift in Sources */,
@@ -327,9 +412,12 @@
 				4BE691C72B3896E90047BD08 /* IncomingMessageView.swift in Sources */,
 				4B20C4A02ADCD799009F337A /* OpenSwiftUIAnimationsApp.swift in Sources */,
 				845DAA392BB49FFF00B1F292 /* WWDC24View1.swift in Sources */,
+				8457B9172BDE3D010097A244 /* DuoGetStarted.swift in Sources */,
 				4BE691B62B3895E40047BD08 /* PresentView.swift in Sources */,
 				849BCD5F2BA5FCB200CE7E10 /* DefaultAnimationWithAnimation.swift in Sources */,
+				8457B9142BDDE8F90097A244 /* EaseInOutExample.swift in Sources */,
 				4BDEB7CC2B2222D700BD22BD /* AnimationCompletionCriteria.swift in Sources */,
+				8457B9112BDDE86C0097A244 /* EaseOutExample.swift in Sources */,
 				4BE691CE2B3898160047BD08 /* SplashView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

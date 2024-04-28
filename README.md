@@ -11,6 +11,10 @@ SwiftUI animation is compelling and superb. With minimal effort, you can add inc
 ![WWDC24](GIF_Previews/wwdc24.gif)
 ---
 
+### Duolingo getting started and loading animations
+![Duolingo Animations](GIF_Previews/duoAnimated.gif)
+---
+
 ### How Things Move: Constant speed, acceleration, deceleration
 ![How Things Move](GIF_Previews/linearEasedAnimations.gif)
 ---

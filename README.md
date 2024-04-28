@@ -31,6 +31,10 @@ SwiftUI animation is compelling and superb. With minimal effort, you can add inc
 ![Flip String Characters in XYZ](GIF_Previews/flipCharactersXYZ.gif)
 ---
 
+### Use DashPhase to move dashes around a shape. 
+![Animate dashphase](GIF_Previews/dashPhase.gif)
+---
+
 **Reactions with Springs**: [EmotionalReactions.swift](OpenSwiftUIAnimations/Reactions/MessengerReactions/EmotionalReactions.swift)
 ![EmotionalReactions.swift](GIF_Previews/emotionalReactions.gif)
 ---

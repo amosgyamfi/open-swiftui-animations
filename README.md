@@ -35,6 +35,10 @@ SwiftUI animation is compelling and superb. With minimal effort, you can add inc
 ![Animate dashphase](GIF_Previews/dashPhase.gif)
 ---
 
+### Animated Signature: Use trimming to draw and and erase path. 
+![Animated Signature](GIF_Previews/SignatureAnimation.gif)
+---
+
 **Reactions with Springs**: [EmotionalReactions.swift](OpenSwiftUIAnimations/Reactions/MessengerReactions/EmotionalReactions.swift)
 ![EmotionalReactions.swift](GIF_Previews/emotionalReactions.gif)
 ---

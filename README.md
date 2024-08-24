@@ -7,6 +7,10 @@ SwiftUI animation is compelling and superb. With minimal effort, you can add inc
 ![Hue rotation](GIF_Previews/SwiftUIMovingBorder.gif)
 ---
 
+### Getting Inner and Outer Borders 
+![Hue rotation](GIF_Previews/innerOuterBorder.gif)
+---
+
 ### Hue Rotation effect with Phase Animator 
 ![Hue rotation](GIF_Previews/wwdc24Invite.gif)
 ---

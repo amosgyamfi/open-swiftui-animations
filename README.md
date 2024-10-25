@@ -6,6 +6,10 @@
 
 SwiftUI animation is compelling and superb. With minimal effort, you can add incredible effects and beautiful animations to your apps. **Why use an animation library instead of creating these tiny effects yourself?** Get inspiration from [here](OpenSwiftUIAnimations) and start building your SwiftUI animations today. Most animations here are based on the animations section in the [Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/animations). Check out the [Xcode project](OpenSwiftUIAnimations) for examples of the new [Phase Animator](https://developer.apple.com/documentation/swiftui/phaseanimator), Symbol Effects, [Keyframe Animator](https://developer.apple.com/documentation/swiftui/keyframeanimator), and [Spring Animations](https://developer.apple.com/documentation/swiftui/spring) for iOS 17 and beyond. Do you want to see an animation that is not here, or did you find an engaging one to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) or add it as a task in the [project's backlog](https://github.com/users/amosgyamfi/projects/1/views/1).
 
+### Thinking, Weighing Options, Evaluating Sentence 
+![](GIF_Previews/thinkingWeighingEvaluating.gif)
+---
+
 ### SwiftUI Moving Border With dashPhase 
 ![Hue rotation](GIF_Previews/SwiftUIMovingBorder.gif)
 ---

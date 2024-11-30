@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -48,6 +48,19 @@
 		849BCD5F2BA5FCB200CE7E10 /* DefaultAnimationWithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849BCD5E2BA5FCB200CE7E10 /* DefaultAnimationWithAnimation.swift */; };
 		849BCD612BA5FCE900CE7E10 /* DefaultAnimationAnimationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849BCD602BA5FCE900CE7E10 /* DefaultAnimationAnimationModifier.swift */; };
 		849BCD632BA7B68C00CE7E10 /* FlipXYZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849BCD622BA7B68C00CE7E10 /* FlipXYZ.swift */; };
+		84C53E732CFB93910030A342 /* PulsingHearts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E722CFB93910030A342 /* PulsingHearts.swift */; };
+		84C53E762CFB93D40030A342 /* Thinking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E752CFB93D40030A342 /* Thinking.swift */; };
+		84C53E782CFB940F0030A342 /* Thinking2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E772CFB940F0030A342 /* Thinking2.swift */; };
+		84C53E7A2CFB94720030A342 /* CombinedSymbolEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E792CFB94720030A342 /* CombinedSymbolEffects.swift */; };
+		84C53E7D2CFB99010030A342 /* SlideWith3DYRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E7C2CFB99010030A342 /* SlideWith3DYRotation.swift */; };
+		84C53E7F2CFB99080030A342 /* SlideWithSpring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E7E2CFB99080030A342 /* SlideWithSpring.swift */; };
+		84C53E812CFB99130030A342 /* SlideWithHeuRotationGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E802CFB99130030A342 /* SlideWithHeuRotationGradient.swift */; };
+		84C53E832CFB99180030A342 /* SlideWithHueRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E822CFB99180030A342 /* SlideWithHueRotation.swift */; };
+		84C53E852CFB991E0030A342 /* SlideWithRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E842CFB991E0030A342 /* SlideWithRotation.swift */; };
+		84C53E872CFB99220030A342 /* SlideToCancelWithScale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E862CFB99220030A342 /* SlideToCancelWithScale.swift */; };
+		84C53E892CFB99270030A342 /* SlideToCancelWithOpacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E882CFB99270030A342 /* SlideToCancelWithOpacity.swift */; };
+		84C53E8B2CFB992C0030A342 /* WhatsAppPushToTalk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E8A2CFB992C0030A342 /* WhatsAppPushToTalk.swift */; };
+		84C53E8D2CFB99320030A342 /* LockAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C53E8C2CFB99320030A342 /* LockAnimationView.swift */; };
 		84FEA4102BBFF936001036A1 /* WWDC24Invite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FEA40F2BBFF936001036A1 /* WWDC24Invite.swift */; };
 		84FEA4122BC12CF5001036A1 /* LinearAndEasedAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FEA4112BC12CF5001036A1 /* LinearAndEasedAnimations.swift */; };
 		84FEA4142BC1308E001036A1 /* FlipCharactersXYZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FEA4132BC1308E001036A1 /* FlipCharactersXYZ.swift */; };
@@ -96,10 +109,27 @@
 		849BCD5E2BA5FCB200CE7E10 /* DefaultAnimationWithAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultAnimationWithAnimation.swift; sourceTree = "<group>"; };
 		849BCD602BA5FCE900CE7E10 /* DefaultAnimationAnimationModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultAnimationAnimationModifier.swift; sourceTree = "<group>"; };
 		849BCD622BA7B68C00CE7E10 /* FlipXYZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipXYZ.swift; sourceTree = "<group>"; };
+		84C53E722CFB93910030A342 /* PulsingHearts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PulsingHearts.swift; sourceTree = "<group>"; };
+		84C53E752CFB93D40030A342 /* Thinking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Thinking.swift; sourceTree = "<group>"; };
+		84C53E772CFB940F0030A342 /* Thinking2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Thinking2.swift; sourceTree = "<group>"; };
+		84C53E792CFB94720030A342 /* CombinedSymbolEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinedSymbolEffects.swift; sourceTree = "<group>"; };
+		84C53E7C2CFB99010030A342 /* SlideWith3DYRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideWith3DYRotation.swift; sourceTree = "<group>"; };
+		84C53E7E2CFB99080030A342 /* SlideWithSpring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideWithSpring.swift; sourceTree = "<group>"; };
+		84C53E802CFB99130030A342 /* SlideWithHeuRotationGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideWithHeuRotationGradient.swift; sourceTree = "<group>"; };
+		84C53E822CFB99180030A342 /* SlideWithHueRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideWithHueRotation.swift; sourceTree = "<group>"; };
+		84C53E842CFB991E0030A342 /* SlideWithRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideWithRotation.swift; sourceTree = "<group>"; };
+		84C53E862CFB99220030A342 /* SlideToCancelWithScale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideToCancelWithScale.swift; sourceTree = "<group>"; };
+		84C53E882CFB99270030A342 /* SlideToCancelWithOpacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideToCancelWithOpacity.swift; sourceTree = "<group>"; };
+		84C53E8A2CFB992C0030A342 /* WhatsAppPushToTalk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsAppPushToTalk.swift; sourceTree = "<group>"; };
+		84C53E8C2CFB99320030A342 /* LockAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockAnimationView.swift; sourceTree = "<group>"; };
 		84FEA40F2BBFF936001036A1 /* WWDC24Invite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WWDC24Invite.swift; sourceTree = "<group>"; };
 		84FEA4112BC12CF5001036A1 /* LinearAndEasedAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinearAndEasedAnimations.swift; sourceTree = "<group>"; };
 		84FEA4132BC1308E001036A1 /* FlipCharactersXYZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipCharactersXYZ.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		84C53E6E2CFB92F50030A342 /* HumanInitiatedAnimations */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = HumanInitiatedAnimations; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		4B20C4992ADCD798009F337A /* Frameworks */ = {
@@ -131,6 +161,10 @@
 		4B20C49E2ADCD798009F337A /* OpenSwiftUIAnimations */ = {
 			isa = PBXGroup;
 			children = (
+				84C53E7B2CFB98E80030A342 /* SlideToCancelAnimations */,
+				84C53E742CFB93AD0030A342 /* AIThinkingAnimations */,
+				84C53E712CFB936C0030A342 /* FitnessActivityAnimations */,
+				84C53E6E2CFB92F50030A342 /* HumanInitiatedAnimations */,
 				4BE691D62B38997E0047BD08 /* Reactions */,
 				4BE691B02B38958B0047BD08 /* ChristmasTree */,
 				4B20C49F2ADCD799009F337A /* OpenSwiftUIAnimationsApp.swift */,
@@ -307,6 +341,40 @@
 			path = BasicConcepts;
 			sourceTree = "<group>";
 		};
+		84C53E712CFB936C0030A342 /* FitnessActivityAnimations */ = {
+			isa = PBXGroup;
+			children = (
+				84C53E722CFB93910030A342 /* PulsingHearts.swift */,
+			);
+			path = FitnessActivityAnimations;
+			sourceTree = "<group>";
+		};
+		84C53E742CFB93AD0030A342 /* AIThinkingAnimations */ = {
+			isa = PBXGroup;
+			children = (
+				84C53E752CFB93D40030A342 /* Thinking.swift */,
+				84C53E792CFB94720030A342 /* CombinedSymbolEffects.swift */,
+				84C53E772CFB940F0030A342 /* Thinking2.swift */,
+			);
+			path = AIThinkingAnimations;
+			sourceTree = "<group>";
+		};
+		84C53E7B2CFB98E80030A342 /* SlideToCancelAnimations */ = {
+			isa = PBXGroup;
+			children = (
+				84C53E7C2CFB99010030A342 /* SlideWith3DYRotation.swift */,
+				84C53E802CFB99130030A342 /* SlideWithHeuRotationGradient.swift */,
+				84C53E862CFB99220030A342 /* SlideToCancelWithScale.swift */,
+				84C53E822CFB99180030A342 /* SlideWithHueRotation.swift */,
+				84C53E882CFB99270030A342 /* SlideToCancelWithOpacity.swift */,
+				84C53E8C2CFB99320030A342 /* LockAnimationView.swift */,
+				84C53E8A2CFB992C0030A342 /* WhatsAppPushToTalk.swift */,
+				84C53E842CFB991E0030A342 /* SlideWithRotation.swift */,
+				84C53E7E2CFB99080030A342 /* SlideWithSpring.swift */,
+			);
+			path = SlideToCancelAnimations;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -321,6 +389,9 @@
 			buildRules = (
 			);
 			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				84C53E6E2CFB92F50030A342 /* HumanInitiatedAnimations */,
 			);
 			name = OpenSwiftUIAnimations;
 			productName = OpenSwiftUIAnimations;
@@ -379,29 +450,41 @@
 			files = (
 				8457B9092BDDE7EA0097A244 /* MeasuringHeartRate.swift in Sources */,
 				4BE691B82B3895FD0047BD08 /* GiftWithRibbonView.swift in Sources */,
+				84C53E7F2CFB99080030A342 /* SlideWithSpring.swift in Sources */,
 				4BE691CC2B3898090047BD08 /* XLike2.swift in Sources */,
+				84C53E732CFB93910030A342 /* PulsingHearts.swift in Sources */,
 				8480EFA42BA89924000B2EC4 /* EmitterParticles.swift in Sources */,
+				84C53E812CFB99130030A342 /* SlideWithHeuRotationGradient.swift in Sources */,
 				849BCD632BA7B68C00CE7E10 /* FlipXYZ.swift in Sources */,
+				84C53E782CFB940F0030A342 /* Thinking2.swift in Sources */,
 				4BE691BE2B3896150047BD08 /* FatherChristmasView.swift in Sources */,
 				8457B9072BDDE7D10097A244 /* SunAndWind.swift in Sources */,
 				84FEA4122BC12CF5001036A1 /* LinearAndEasedAnimations.swift in Sources */,
 				4B20C4A22ADCD799009F337A /* AlertNotificationAnimation.swift in Sources */,
 				4BE691D52B3899400047BD08 /* JumpAndFallWithKeyframes.swift in Sources */,
+				84C53E8D2CFB99320030A342 /* LockAnimationView.swift in Sources */,
 				84FEA4142BC1308E001036A1 /* FlipCharactersXYZ.swift in Sources */,
+				84C53E8B2CFB992C0030A342 /* WhatsAppPushToTalk.swift in Sources */,
 				8457B91B2BDE3D160097A244 /* MusicNotes.swift in Sources */,
 				4BE691D12B3899080047BD08 /* JumpAndFallEmojis.swift in Sources */,
 				4BE691B22B3895CF0047BD08 /* SwiftUIXmasTree.swift in Sources */,
 				4BE691C22B3896270047BD08 /* CompositorView.swift in Sources */,
+				84C53E892CFB99270030A342 /* SlideToCancelWithOpacity.swift in Sources */,
+				84C53E7D2CFB99010030A342 /* SlideWith3DYRotation.swift in Sources */,
 				4BE691CA2B3897F30047BD08 /* XLike1.swift in Sources */,
+				84C53E872CFB99220030A342 /* SlideToCancelWithScale.swift in Sources */,
 				8457B90E2BDDE8410097A244 /* EaseInExample.swift in Sources */,
 				84FEA4102BBFF936001036A1 /* WWDC24Invite.swift in Sources */,
 				4BE691D32B3899360047BD08 /* JumpAndFallWithPhase.swift in Sources */,
 				4BE691C52B3896DF0047BD08 /* EmotionalReactions.swift in Sources */,
 				4BE691DA2B3899BE0047BD08 /* ReactionsView.swift in Sources */,
+				84C53E832CFB99180030A342 /* SlideWithHueRotation.swift in Sources */,
 				4BE691C02B38961D0047BD08 /* MxClausView.swift in Sources */,
 				4BE691BA2B3896050047BD08 /* HeartWithRibbonView.swift in Sources */,
+				84C53E7A2CFB94720030A342 /* CombinedSymbolEffects.swift in Sources */,
 				849BCD612BA5FCE900CE7E10 /* DefaultAnimationAnimationModifier.swift in Sources */,
 				8457B90B2BDDE7F60097A244 /* StreamLogoMarchingAnts.swift in Sources */,
+				84C53E762CFB93D40030A342 /* Thinking.swift in Sources */,
 				8457B9192BDE3D0F0097A244 /* SpringyDuoGetStarted.swift in Sources */,
 				4BE691BC2B38960D0047BD08 /* MrsClausView.swift in Sources */,
 				8457B91D2BDE3D1E0097A244 /* DuoLoading.swift in Sources */,
@@ -415,6 +498,7 @@
 				8457B9172BDE3D010097A244 /* DuoGetStarted.swift in Sources */,
 				4BE691B62B3895E40047BD08 /* PresentView.swift in Sources */,
 				849BCD5F2BA5FCB200CE7E10 /* DefaultAnimationWithAnimation.swift in Sources */,
+				84C53E852CFB991E0030A342 /* SlideWithRotation.swift in Sources */,
 				8457B9142BDDE8F90097A244 /* EaseInOutExample.swift in Sources */,
 				4BDEB7CC2B2222D700BD22BD /* AnimationCompletionCriteria.swift in Sources */,
 				8457B9112BDDE86C0097A244 /* EaseOutExample.swift in Sources */,
@@ -560,6 +644,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -589,6 +674,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

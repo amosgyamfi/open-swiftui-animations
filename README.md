@@ -4,7 +4,7 @@
 ### Animate Anything With SwiftUI
 ![SwiftUI animations preview](GIF_Previews/jiggleAndJelloGithub.gif)
 
-SwiftUI animation is compelling and superb. With minimal effort, you can add incredible effects and beautiful animations to your apps. **Why use an animation library instead of creating these tiny effects yourself?** Get inspiration from [here](OpenSwiftUIAnimations) and start building your SwiftUI animations today. Most animations here are based on the animations section in the [Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/animations). Check out the [Xcode project](OpenSwiftUIAnimations) for examples of the new [Phase Animator](https://developer.apple.com/documentation/swiftui/phaseanimator), Symbol Effects, [Keyframe Animator](https://developer.apple.com/documentation/swiftui/keyframeanimator), and [Spring Animations](https://developer.apple.com/documentation/swiftui/spring) for iOS 17 and beyond. Do you want to see an animation that is not here, or did you find an engaging one to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) or add it as a task in the [project's backlog](https://github.com/users/amosgyamfi/projects/1/views/1).
+SwiftUI animation is compelling and superb. You can add incredible effects and beautiful animations to your apps with minimal effort. **Why use an animation library instead of creating these tiny effects yourself?** Get inspiration from [here](OpenSwiftUIAnimations) and start building your SwiftUI animations today. Most animations here are based on the animations section in the [Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/animations). Check out the [Xcode project](OpenSwiftUIAnimations) for examples of the new [Phase Animator](https://developer.apple.com/documentation/swiftui/phaseanimator), Symbol Effects, [Keyframe Animator](https://developer.apple.com/documentation/swiftui/keyframeanimator), and [Spring Animations](https://developer.apple.com/documentation/swiftui/spring) for iOS 17 and beyond. Do you want to see an animation that is not here, or did you find an engaging one to add? Contact me on X: [@amos_gyamfi](https://twitter.com/amos_gyamfi) or add it as a task in the [project's backlog](https://github.com/users/amosgyamfi/projects/1/views/1).
 
 ### Thinking, Weighing Options, Evaluating Sentence 
 ![](GIF_Previews/thinkingWeighingEvaluating.gif)
@@ -15,7 +15,20 @@ SwiftUI animation is compelling and superb. With minimal effort, you can add inc
 ---
 
 ### Getting Inner and Outer Borders 
-![Hue rotation](GIF_Previews/innerOuterBorder.gif)
+![Inner and Outer Borders](GIF_Previews/innerOuterBorder.gif)
+---
+
+### [PulsingHearts.swift](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/OpenSwiftUIAnimations/FitnessActivityAnimations/PulsingHearts.swift)  
+![Pulsating Hearts](GIF_Previews/pulsatingHeart.gif)
+---
+
+### [SlideToUnlock.swift](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/OpenSwiftUIAnimations/SlideToCancelAnimations/SlideToCancelWithScale.swift): Find [All Variations](https://github.com/amosgyamfi/open-swiftui-animations/tree/master/OpenSwiftUIAnimations/SlideToCancelAnimations) 
+![Slide to unlock](GIF_Previews/slideToUnlock.gif)
+---
+
+
+### [CrossFadeNumericTransition.swift](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/OpenSwiftUIAnimations/HumanInitiatedAnimations/IncreaseDecrease.swift) 
+![Numeric transition](GIF_Previews/numericTransitionCrossfade.gif)
 ---
 
 ### Hue Rotation effect with Phase Animator 
@@ -50,7 +63,7 @@ SwiftUI animation is compelling and superb. With minimal effort, you can add inc
 ![Animate dashphase](GIF_Previews/dashPhase.gif)
 ---
 
-### Animated Signature: Use trimming to draw and and erase path. 
+### Animated Signature: Use trimming to draw and erase the path. 
 ![Animated Signature](GIF_Previews/SignatureAnimation.gif)
 ---
 

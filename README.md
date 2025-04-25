@@ -9,7 +9,7 @@ SwiftUI animation is compelling and superb. With minimal effort, you can add inc
 Starting in 2025, I will generate some of the SwiftUI animations using SOTA models like Gemini 2.5 Pro, Claude 3.7 Sonnet, OpenAI o3, and o4-mini models.
 ---
 
-### Gemini 2.5 Pro + OpenAI o3 SwiftUI-generated animations: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/Gemini_25_With_OpenAI_o3_Animation.swift) - **Note**: The animations are unedited. Modify and use them to suit your needs.  
+### Gemini 2.5 Pro + OpenAI o3 SwiftUI-generated animations: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/Gemini_25_With_OpenAI_o3_Animation.swift). Note: The animations are unedited. Modify and use them to suit your needs.  
 ![SwiftUI fireworks animation](GIF_Previews/gemini25_openaio3_animations.gif)
 
 ---

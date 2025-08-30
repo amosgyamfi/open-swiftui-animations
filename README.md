@@ -9,6 +9,52 @@ SwiftUI animation is compelling and superb. With minimal effort, you can add inc
 Starting in 2025, I will generate some of the SwiftUI animations using SOTA models like Gemini 2.5 Pro, Claude 3.7 Sonnet, OpenAI o3, and o4-mini models.
 ---
 
+### Liquid Glass Shape Morphing Animation With GlassEffectContainer: [Gist](https://github.com/amosgyamfi/swiftui_tutorial_projects/blob/master/Gist/LiquidGlassEffectContainer.swift)
+![Shape Morphing Animation With GlassEffectContainer](GIF_Previews/GlassEffectContainerMorphing.gif)
+```swift
+import SwiftUI
+
+struct LiquidGlassEffectContainer: View {
+    var body: some View {
+        GlassEffectContainer(spacing: 50) {
+            PhaseAnimator([false, true]) { morph in
+                HStack(spacing: morph ? 50.0 : -15.0) {
+                    Button {
+                        //
+                    } label: {
+                        Image(systemName: "scribble.variable")
+                    }
+                    .padding()
+                    .glassEffect()
+                    
+                    Button {
+                        //
+                    } label: {
+                        Image(systemName: "eraser.fill")
+                    }
+                    .padding()
+                    .glassEffect()
+                }
+                .tint(.green)
+                .font(.system(size: 64.0))
+            } animation: { morph in
+                    //.bouncy(duration: 2, extraBounce: 0.5)
+                    //.easeOut(duration: 2)
+                    .easeInOut(duration: 2)
+                    //.timingCurve(0.68, -0.6, 0.32, 1.6, duration: 2)
+                    
+            }
+        }
+    }
+}
+
+#Preview {
+    LiquidGlassEffectContainer()
+        .preferredColorScheme(.dark)
+}
+```
+---
+
 ### Image generation loader: [Gist](https://gist.github.com/amosgyamfi/b9fb404fcc1fc14b735f84095b8f7552#file-imagegenerationloader-swift)
 ![Image generation loader](GIF_Previews/imageGenerator.gif)
 

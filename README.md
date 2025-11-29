@@ -60,8 +60,8 @@ struct LiquidGlassEffectContainer: View {
 
 ---
 
-### WWDC25 Animation: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/WWDC25Animation.swift). Note: The animations are unedited. Modify and use them to suit your needs.  
-![WWDC25 Animation](GIF_Previews/wwdc25animation.gif)
+### 3 Ways to add animations: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/ThreeWaysToAnimate.swift)  
+![3 Ways to add animations](GIF_Previews/threeWaysToAnimate.gif)
 
 ---
 

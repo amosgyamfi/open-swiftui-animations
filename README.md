@@ -140,10 +140,6 @@ struct LiquidGlassEffectContainer: View {
 ![EmotionalReactions.swift](GIF_Previews/emotionalReactions.gif)
 ---
 
-**SwiftUI 2024 Christmas Tree**: [SwiftUI Christmas Tree](OpenSwiftUIAnimations/ChristmasTree)
-![SwiftUI Christmas Tree](GIF_Previews/SwiftUIChristmasTree.gif)
----
-
 **Expressive Reactions**: [IncomingMessageView.swift](OpenSwiftUIAnimations/Reactions/MessengerReactions/IncomingMessageView.swift)
 ![Expressive Reactions](GIF_Previews/ExpressiveReactions.gif)
 ---

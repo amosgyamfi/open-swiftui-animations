@@ -55,6 +55,11 @@ struct LiquidGlassEffectContainer: View {
 ```
 ---
 
+### 2D rotation around specified anchor: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/FlowerAnimation.swift)
+![2D rotation around specified anchor](GIF_Previews/2dAnchorRotation.gif)
+
+---
+
 ### Image generation loader: [Gist](https://gist.github.com/amosgyamfi/b9fb404fcc1fc14b735f84095b8f7552#file-imagegenerationloader-swift)
 ![Image generation loader](GIF_Previews/imageGenerator.gif)
 

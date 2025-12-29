@@ -55,6 +55,11 @@ struct LiquidGlassEffectContainer: View {
 ```
 ---
 
+### Animated, visual guide to SwiftUI mask(alignment:_:), clipShape(_:style:), and clipped(antialiased:): [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/MaskClippedClipShape.swift)
+![Animated, visual guide to SwiftUI mask(alignment:_:), clipShape(_:style:), and clipped(antialiased:)](GIF_Previews/MaskClippedClipShape.gif)
+
+---
+
 ### 2D rotation around specified anchor: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/FlowerAnimation.swift)
 ![2D rotation around specified anchor](GIF_Previews/2dAnchorRotation.gif)
 

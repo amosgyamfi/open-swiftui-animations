@@ -65,6 +65,11 @@ struct LiquidGlassEffectContainer: View {
 
 ---
 
+### SwiftUI New Year's Eve Fireworks: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/NewYearsEveFireworks2026.swift)
+![SwiftUI New Year's Eve Fireworks](GIF_Previews/SwiftUINewYearsEveFireworks.gif)
+
+---
+
 ### Image generation loader: [Gist](https://gist.github.com/amosgyamfi/b9fb404fcc1fc14b735f84095b8f7552#file-imagegenerationloader-swift)
 ![Image generation loader](GIF_Previews/imageGenerator.gif)
 
@@ -77,11 +82,6 @@ struct LiquidGlassEffectContainer: View {
 
 ### Gemini 2.5 Pro + OpenAI o3 SwiftUI-generated animations: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/Gemini_25_With_OpenAI_o3_Animation.swift). Note: The animations are unedited. Modify and use them to suit your needs.  
 ![SwiftUI fireworks animation](GIF_Previews/gemini25_openaio3_animations.gif)
-
----
-
-### SwiftUI Fireworks Animation: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/GeminiFireworksAnimation.swift) - Before running the code, ensure you have a small image like "Spark.png" in your assets catalog. 
-![SwiftUI fireworks animation](GIF_Previews/Gemini2-5SwiftUIFireworks.gif)
 
 ---
 

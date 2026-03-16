@@ -55,6 +55,11 @@ struct LiquidGlassEffectContainer: View {
 ```
 ---
 
+### Safari-Style Add to Bookmarks Animation: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/AddToBookmark.swift)
+![Safari-Style Add to Bookmarks Animation](GIF_Previews/addToBookmark.gif)
+
+---
+
 ### Animated, visual guide to SwiftUI mask(alignment:_:), clipShape(_:style:), and clipped(antialiased:): [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/MaskClippedClipShape.swift)
 ![Animated, visual guide to SwiftUI mask(alignment:_:), clipShape(_:style:), and clipped(antialiased:)](GIF_Previews/MaskClippedClipShape.gif)
 

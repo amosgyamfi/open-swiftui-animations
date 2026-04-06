@@ -1,6 +1,13 @@
 ## Open SwiftUI Animations
 ### Pure SwiftUI animation inspirations for your next iOS, macOS, visionOS, and watchOS projects. Enjoy 😊. 
 
+Support: 
+- https://github.com/sponsors/amosgyamfi 
+
+- https://buymeacoffee.com/amosgyamfi
+
+- <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'F1F52FCFY');kofiwidget2.draw();</script> 
+
 ### Animate Anything With SwiftUI
 ![SwiftUI animations preview](GIF_Previews/jiggleAndJelloGithub.gif)
 

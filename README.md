@@ -62,6 +62,9 @@ struct LiquidGlassEffectContainer: View {
 ```
 ---
 
+### Typewriting, Erasing & Cursor-Blinkin-Style Animation: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/TypingErasing.swift)
+![Safari-Style Add to Bookmarks Animation](GIF_Previews/typing_erasing.gif)
+
 ### Safari-Style Add to Bookmarks Animation: [Gist](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/Gists_To_Try/AddToBookmark.swift)
 ![Safari-Style Add to Bookmarks Animation](GIF_Previews/addToBookmark.gif)
 

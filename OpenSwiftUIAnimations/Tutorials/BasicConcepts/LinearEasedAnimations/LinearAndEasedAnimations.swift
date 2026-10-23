@@ -80,7 +80,7 @@ struct LinearAndEasedAnimations: View {
                 }
             }
             .listStyle(.inset)
-            .navigationTitle("Linear and Eased Aniomations")
+            .navigationTitle("Linear and Eased Animations")
             .navigationBarTitleDisplayMode(.inline)
         }
     }
